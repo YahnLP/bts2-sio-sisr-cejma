@@ -25,7 +25,8 @@ Une séance de 4 h = une fiche séance, un cours, une étude de cas à partir d'
 | Séances | État |
 |---|---|
 | S01 à S05 (phase 1) | Rédigées (fiche, cours, étude de cas, aide-mémoire, corrigé) ; **à valider** |
-| S06 à S19 | Fiche de séance (objectifs, contenu prévu) ; reste à rédiger phase par phase |
+| S06 à S10 (phase 2) | Rédigées (fiche, cours, étude de cas, aide-mémoire, corrigé) ; **à valider** |
+| S11 à S19 | Fiche de séance (objectifs, contenu prévu) ; reste à rédiger phase par phase |
 
 > [!NOTE]
 > Le rattachement des séances aux thèmes du programme officiel (annexe I) est une **proposition** : l'annexe n'a pas été relue.
