@@ -16,6 +16,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Besoin en fonds de roulement** | BFR |  | Besoin de financement du cycle d'exploitation. | A1 · S10 |
 | **Bibliothèque pour l'infrastructure des technologies de l'information** | ITIL |  | Référentiel de bonnes pratiques de gestion des services informatiques. | A1 · S08 |
 | **Brevet de technicien supérieur** | BTS |  | Diplôme national de niveau bac + 2. | A1 · S01 |
+| **Bulletin de paie** |  | *payslip* | Document mensuel détaillant le salaire brut, les cotisations et le net à payer. | A2 · S07 |
 | **Centre gouvernemental de veille, d'alerte et de réponse aux attaques** | CERT-FR |  | Équipe de l'ANSSI qui publie avis et alertes. | A1 · S19 |
 | **Cession de droits** |  | *assignment of rights* | Contrat par lequel un auteur transmet certains droits sur son œuvre. | A2 · S05 |
 | **Chaîne de valeur** |  | *value chain* | Découpage de l'activité en étapes pour repérer où se crée la valeur. | A2 · S02 |
@@ -24,11 +25,16 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Charte informatique** |  |  | Document qui fixe les règles d'usage du système d'information. | A1 · S11 |
 | **Chiffre d'affaires** | CA | *revenue* | Total des ventes de l'entreprise sur une période. | A1 · S03 |
 | **Cinq forces de Porter** |  | *Porter's five forces* | Outil qui mesure l'intensité de la concurrence d'un secteur. | A2 · S02 |
+| **Clause de mobilité** |  | *mobility clause* | Clause qui permet à l'employeur de changer le lieu de travail dans une zone définie au contrat. | A2 · S06 |
 | **Clause de non-concurrence** |  | *non-compete clause* | Clause qui limite l'activité d'une personne après la fin de son contrat. | A2 · S05 |
 | **Comité social et économique** | CSE |  | Instance de représentation du personnel. | A1 · S07 |
 | **Commission nationale de l'informatique et des libertés** | CNIL |  | Autorité française de protection des données. | A1 · S13 |
+| **Conseil de prud'hommes** |  | *labour court* | Juridiction paritaire qui règle les litiges individuels du contrat de travail. | A2 · S09 |
 | **Contrat** |  | *contract* | Accord de volontés qui crée des obligations. | A1 · S04 |
+| **Contrat à durée déterminée** | CDD | *fixed-term contract* | Contrat de travail à terme, utilisable dans des cas limités par la loi. | A2 · S06 |
+| **Contrat à durée indéterminée** | CDI | *permanent contract* | Contrat de travail sans date de fin, forme normale de l'emploi. | A2 · S06 |
 | **Contrefaçon** |  | *infringement* | Atteinte à un droit de propriété intellectuelle. | A1 · S16 |
+| **Convention collective** |  | *collective agreement* | Accord qui fixe des règles pour une branche professionnelle. | A2 · S06 |
 | **Coût d'acquisition d'un client** | CAC | *customer acquisition cost* | Dépenses commerciales divisées par le nombre de nouveaux clients. | A2 · S03 |
 | **Coût total de possession** | TCO | *total cost of ownership* | Coût complet d'un bien ou service sur toute sa durée de vie. | A1 · S05 |
 | **Creative Commons** |  |  | Famille de licences pour les œuvres : attribution (BY), partage dans les mêmes conditions (SA), non commercial (NC), pas de modification (ND). | A1 · S17 |
@@ -38,6 +44,9 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Délai de récupération** |  | *payback period* | Temps nécessaire pour que les flux nets remboursent un investissement. | A2 · S04 |
 | **Délégué à la protection des données** | DPO | *data protection officer* | Personne qui conseille et contrôle la conformité au RGPD. | A1 · S13 |
 | **Direction des systèmes d'information** | DSI |  | Service ou responsable chargé du système d'information d'une organisation. | A1 · S01 |
+| **Document unique d'évaluation des risques professionnels** | DUERP | *occupational risk assessment* | Document qui recense les risques professionnels et les actions de prévention. | A2 · S10 |
+| **Droit à la déconnexion** |  | *right to disconnect* | Droit de ne pas être joignable en dehors du temps de travail. | A2 · S07 |
+| **Droit de retrait** |  | *right to withdraw* | Droit de quitter une situation présentant un danger grave et imminent. | A2 · S10 |
 | **Effet de réseau** |  | *network effect* | La valeur d'un service augmente avec le nombre d'utilisateurs. | A1 · S02 |
 | **Entreprise commune** |  | *joint venture* | Filiale créée et détenue par plusieurs entreprises partenaires. | A2 · S04 |
 | **Entreprise de services du numérique** | ESN | *IT services company* | Entreprise qui vend des prestations informatiques (conseil, développement, infogérance). | A1 · S01 |
@@ -47,10 +56,16 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Environnement politique, économique, socioculturel, technologique, écologique et légal** | PESTEL |  | Grille d'analyse de l'environnement externe d'une entreprise. | A2 · S02 |
 | **Épreuve E4** | E4 |  | Épreuve écrite de culture économique, juridique et managériale (4 h, coefficient 3). | A1 · S19 |
 | **Externalité** |  | *externality* | Effet d'une activité sur des tiers, sans compensation par le marché. | A1 · S02 |
+| **Faute grave** |  | *serious misconduct* | Faute qui rend impossible le maintien du salarié dans l'entreprise, même pendant le préavis. | A2 · S08 |
+| **Faute inexcusable** |  | *inexcusable fault* | Faute de l'employeur qui avait conscience d'un danger sans prendre les mesures nécessaires. | A2 · S10 |
+| **Faute lourde** |  | *gross misconduct* | Faute grave commise avec l'intention de nuire à l'employeur. | A2 · S08 |
+| **Faux indépendant** |  | *false self-employment* | Personne facturée comme indépendante mais travaillant dans les faits sous subordination. | A2 · S06 |
 | **Forces, faiblesses, opportunités, menaces** | SWOT |  | Tableau de diagnostic : forces et faiblesses (internes), opportunités et menaces (externes). | A2 · S02 |
 | **Fournisseur d'accès à Internet** | FAI | *ISP* | Opérateur qui donne l'accès à Internet. | A1 · S12 |
 | **Garantie de temps d'intervention** | GTI |  | Délai maximal de prise en charge après signalement. | A1 · S09 |
 | **Garantie de temps de rétablissement** | GTR |  | Délai maximal de rétablissement du service. | A1 · S09 |
+| **Harcèlement moral** |  | *workplace bullying* | Agissements répétés qui dégradent les conditions de travail et portent atteinte à la santé. | A2 · S10 |
+| **Heures supplémentaires** |  | *overtime* | Heures accomplies au-delà de 35 h par semaine, majorées. | A2 · S07 |
 | **Hors taxes** | HT |  | Prix ou montant sans la taxe sur la valeur ajoutée. | A1 · S03 |
 | **Identifiant bancaire international** | IBAN |  | Numéro de compte bancaire normalisé. | A1 · S15 |
 | **Impôt sur le revenu** | IR | *income tax* | Impôt sur le revenu des personnes physiques. | A1 · S06 |
@@ -61,10 +76,12 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Innovation ouverte** |  | *open innovation* | Innover avec des partenaires extérieurs plutôt qu'en interne seulement. | A2 · S01 |
 | **Institut national de la propriété industrielle** | INPI |  | Office français des brevets, marques, dessins et modèles. | A1 · S16 |
 | **Invention** |  | *invention* | Création nouvelle (idée, prototype) qui n'a pas encore trouvé d'utilisateurs. | A2 · S01 |
+| **Lanceur d'alerte** |  | *whistleblower* | Personne qui signale de bonne foi des faits graves et bénéficie d'une protection. | A2 · S10 |
 | **Licence BSD** | BSD |  | Licence libre permissive. | A1 · S17 |
 | **Licence MIT** | MIT |  | Licence libre permissive. | A1 · S17 |
 | **Licence publique générale Affero GNU** | AGPL |  | Licence libre à copyleft étendu aux services en réseau. | A1 · S17 |
 | **Licence publique générale GNU** | GPL |  | Licence libre à copyleft fort. | A1 · S17 |
+| **Lien de subordination** |  | *employment relationship* | Exécution d'un travail sous l'autorité d'un employeur qui donne des ordres, contrôle et sanctionne. | A2 · S06 |
 | **Logiciel en tant que service** | SaaS | *software as a service* | Logiciel utilisé en ligne par abonnement. | A1 · S01 |
 | **Loi PACTE** | PACTE |  | Loi relative à la croissance et à la transformation des entreprises (2019). | A1 · S06 |
 | **Loi pour la confiance dans l'économie numérique** | LCEN |  | Loi de 2004 qui encadre la responsabilité des acteurs d'Internet. | A1 · S12 |
@@ -73,18 +90,23 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Part de marché** |  | *market share* | Chiffre d'affaires de l'entreprise divisé par celui du marché. | A2 · S02 |
 | **Partie prenante** |  | *stakeholder* | Personne ou groupe concerné par l'activité de l'entreprise. | A1 · S03 |
 | **Performance** |  | *performance* | Capacité de l'entreprise à atteindre ses objectifs avec efficacité et efficience. | A1 · S03 |
+| **Période d'essai** |  | *probationary period* | Période initiale du contrat pendant laquelle chacun évalue l'autre. | A2 · S06 |
 | **Petite et moyenne entreprise** | PME |  | Entreprise de taille moyenne selon des seuils d'effectif et de chiffre d'affaires. | A1 · S01 |
 | **Planification des ressources de l'entreprise** | ERP | *enterprise resource planning* | Logiciel de gestion intégrée. | A1 · S05 |
 | **Point de contact unique** | SPOC | *single point of contact* | Guichet unique pour les demandes des utilisateurs. | A1 · S08 |
 | **Portage salarial** |  |  | Dispositif où un consultant est salarié d'une société de portage qui facture ses missions. | A1 · S04 |
+| **Préavis** |  | *notice period* | Délai entre l'annonce de la rupture et la fin effective du contrat. | A2 · S09 |
+| **Prime de précarité** |  | *end-of-contract allowance* | Indemnité de fin de CDD, en principe 10 % de la rémunération brute totale. | A2 · S06 |
 | **Protocole de synchronisation de l'heure** | NTP | *network time protocol* | Protocole qui synchronise les horloges des machines. | A1 · S18 |
 | **Recherche et développement** | R&D | *research and development* | Activités de recherche et de conception de produits ou de procédés nouveaux. | A2 · S01 |
 | **Règlement général sur la protection des données** | RGPD | *GDPR* | Règlement européen sur les données personnelles. | A1 · S13 |
+| **Règlement intérieur** |  | *internal rules* | Document de l'employeur, obligatoire dès 50 salariés, sur la discipline, la santé et la sécurité. | A2 · S08 |
 | **Règlement sur les services numériques** | DSA | *digital services act* | Règlement européen sur les services numériques et les plateformes. | A1 · S12 |
 | **Responsabilité civile** |  | *civil liability* | Obligation de réparer le dommage causé. | A1 · S07 |
 | **Responsabilité pénale** |  | *criminal liability* | Obligation de répondre d'une infraction devant le juge pénal. | A1 · S07 |
 | **Responsable de la sécurité des systèmes d'information** | RSSI |  | Personne chargée de la sécurité du système d'information. | A1 · S08 |
 | **Revenu mensuel récurrent** | MRR | *monthly recurring revenue* | Revenus mensuels d'abonnement. | A2 · S03 |
+| **Rupture conventionnelle** |  | *mutually agreed termination* | Rupture du CDI d'un commun accord, avec homologation administrative. | A2 · S09 |
 | **Secret des affaires** |  | *trade secret* | Information non divulguée, de valeur commerciale, protégée par des mesures raisonnables. | A2 · S05 |
 | **Services informatiques aux organisations** | SIO |  | Spécialité du BTS, avec les options SISR et SLAM. | A1 · S01 |
 | **Seuil de rentabilité** |  | *break-even point* | Niveau d'activité pour lequel le résultat est nul. | A2 · S03 |

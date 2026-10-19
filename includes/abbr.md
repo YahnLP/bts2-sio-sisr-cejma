@@ -9,12 +9,15 @@
 *[CA]: Chiffre d'affaires : Total des ventes de l'entreprise sur une période.
 *[CSE]: Comité social et économique : Instance de représentation du personnel.
 *[CNIL]: Commission nationale de l'informatique et des libertés : Autorité française de protection des données.
+*[CDD]: Contrat à durée déterminée : Contrat de travail à terme, utilisable dans des cas limités par la loi.
+*[CDI]: Contrat à durée indéterminée : Contrat de travail sans date de fin, forme normale de l'emploi.
 *[CAC]: Coût d'acquisition d'un client : Dépenses commerciales divisées par le nombre de nouveaux clients.
 *[TCO]: Coût total de possession : Coût complet d'un bien ou service sur toute sa durée de vie.
 *[CEJMA]: Culture économique, juridique et managériale appliquée : Enseignement qui prépare l'épreuve E4 du BTS SIO.
 *[DEEE]: Déchets d'équipements électriques et électroniques : Déchets d'appareils électriques, soumis à une filière de collecte et de recyclage.
 *[DPO]: Délégué à la protection des données : Personne qui conseille et contrôle la conformité au RGPD.
 *[DSI]: Direction des systèmes d'information : Service ou responsable chargé du système d'information d'une organisation.
+*[DUERP]: Document unique d'évaluation des risques professionnels : Document qui recense les risques professionnels et les actions de prévention.
 *[ESN]: Entreprise de services du numérique : Entreprise qui vend des prestations informatiques (conseil, développement, infogérance).
 *[ETI]: Entreprise de taille intermédiaire : Entreprise plus grande qu'une PME et plus petite qu'une grande entreprise.
 *[EI]: Entreprise individuelle : Entreprise sans société distincte de l'entrepreneur.
