@@ -23,12 +23,14 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Charges fixes** |  | *fixed costs* | Charges qui ne dépendent pas, à court terme, du volume d'activité. | A2 · S03 |
 | **Charges variables** |  | *variable costs* | Charges qui évoluent avec le volume d'activité. | A2 · S03 |
 | **Charte informatique** |  |  | Document qui fixe les règles d'usage du système d'information. | A1 · S11 |
+| **Chemin critique** |  | *critical path* | Suite de tâches sans marge qui détermine la durée minimale d'un projet. | A2 · S13 |
 | **Chiffre d'affaires** | CA | *revenue* | Total des ventes de l'entreprise sur une période. | A1 · S03 |
 | **Cinq forces de Porter** |  | *Porter's five forces* | Outil qui mesure l'intensité de la concurrence d'un secteur. | A2 · S02 |
 | **Clause de mobilité** |  | *mobility clause* | Clause qui permet à l'employeur de changer le lieu de travail dans une zone définie au contrat. | A2 · S06 |
 | **Clause de non-concurrence** |  | *non-compete clause* | Clause qui limite l'activité d'une personne après la fin de son contrat. | A2 · S05 |
 | **Comité social et économique** | CSE |  | Instance de représentation du personnel. | A1 · S07 |
 | **Commission nationale de l'informatique et des libertés** | CNIL |  | Autorité française de protection des données. | A1 · S13 |
+| **Conduite du changement** |  | *change management* | Ensemble des actions qui accompagnent les personnes lors d'un changement. | A2 · S14 |
 | **Conseil de prud'hommes** |  | *labour court* | Juridiction paritaire qui règle les litiges individuels du contrat de travail. | A2 · S09 |
 | **Contrat** |  | *contract* | Accord de volontés qui crée des obligations. | A1 · S04 |
 | **Contrat à durée déterminée** | CDD | *fixed-term contract* | Contrat de travail à terme, utilisable dans des cas limités par la loi. | A2 · S06 |
@@ -42,11 +44,14 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Culture économique, juridique et managériale appliquée** | CEJMA |  | Enseignement qui prépare l'épreuve E4 du BTS SIO. | A1 · S01 |
 | **Déchets d'équipements électriques et électroniques** | DEEE | *WEEE* | Déchets d'appareils électriques, soumis à une filière de collecte et de recyclage. | A1 · S05 |
 | **Délai de récupération** |  | *payback period* | Temps nécessaire pour que les flux nets remboursent un investissement. | A2 · S04 |
+| **Délégation** |  | *delegation* | Transfert d'une tâche et de l'autorité nécessaire pour la mener. | A2 · S11 |
 | **Délégué à la protection des données** | DPO | *data protection officer* | Personne qui conseille et contrôle la conformité au RGPD. | A1 · S13 |
+| **Diagramme de Gantt** |  | *Gantt chart* | Représentation des tâches en barres sur un calendrier. | A2 · S13 |
 | **Direction des systèmes d'information** | DSI |  | Service ou responsable chargé du système d'information d'une organisation. | A1 · S01 |
 | **Document unique d'évaluation des risques professionnels** | DUERP | *occupational risk assessment* | Document qui recense les risques professionnels et les actions de prévention. | A2 · S10 |
 | **Droit à la déconnexion** |  | *right to disconnect* | Droit de ne pas être joignable en dehors du temps de travail. | A2 · S07 |
 | **Droit de retrait** |  | *right to withdraw* | Droit de quitter une situation présentant un danger grave et imminent. | A2 · S10 |
+| **Écoblanchiment** |  | *greenwashing* | Communication exagérant ou inventant des qualités environnementales. | A2 · S15 |
 | **Effet de réseau** |  | *network effect* | La valeur d'un service augmente avec le nombre d'utilisateurs. | A1 · S02 |
 | **Entreprise commune** |  | *joint venture* | Filiale créée et détenue par plusieurs entreprises partenaires. | A2 · S04 |
 | **Entreprise de services du numérique** | ESN | *IT services company* | Entreprise qui vend des prestations informatiques (conseil, développement, infogérance). | A1 · S01 |
@@ -55,6 +60,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Entreprise unipersonnelle à responsabilité limitée** | EURL |  | SARL à associé unique. | A1 · S06 |
 | **Environnement politique, économique, socioculturel, technologique, écologique et légal** | PESTEL |  | Grille d'analyse de l'environnement externe d'une entreprise. | A2 · S02 |
 | **Épreuve E4** | E4 |  | Épreuve écrite de culture économique, juridique et managériale (4 h, coefficient 3). | A1 · S19 |
+| **Étendue du contrôle** |  | *span of control* | Nombre de subordonnés directs placés sous un responsable. | A2 · S11 |
 | **Externalité** |  | *externality* | Effet d'une activité sur des tiers, sans compensation par le marché. | A1 · S02 |
 | **Faute grave** |  | *serious misconduct* | Faute qui rend impossible le maintien du salarié dans l'entreprise, même pendant le préavis. | A2 · S08 |
 | **Faute inexcusable** |  | *inexcusable fault* | Faute de l'employeur qui avait conscience d'un danger sans prendre les mesures nécessaires. | A2 · S10 |
@@ -76,6 +82,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Innovation ouverte** |  | *open innovation* | Innover avec des partenaires extérieurs plutôt qu'en interne seulement. | A2 · S01 |
 | **Institut national de la propriété industrielle** | INPI |  | Office français des brevets, marques, dessins et modèles. | A1 · S16 |
 | **Invention** |  | *invention* | Création nouvelle (idée, prototype) qui n'a pas encore trouvé d'utilisateurs. | A2 · S01 |
+| **Jalon** |  | *milestone* | Date clé d'un projet. | A2 · S13 |
 | **Lanceur d'alerte** |  | *whistleblower* | Personne qui signale de bonne foi des faits graves et bénéficie d'une protection. | A2 · S10 |
 | **Licence BSD** | BSD |  | Licence libre permissive. | A1 · S17 |
 | **Licence MIT** | MIT |  | Licence libre permissive. | A1 · S17 |
@@ -85,8 +92,16 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Logiciel en tant que service** | SaaS | *software as a service* | Logiciel utilisé en ligne par abonnement. | A1 · S01 |
 | **Loi PACTE** | PACTE |  | Loi relative à la croissance et à la transformation des entreprises (2019). | A1 · S06 |
 | **Loi pour la confiance dans l'économie numérique** | LCEN |  | Loi de 2004 qui encadre la responsabilité des acteurs d'Internet. | A1 · S12 |
+| **Maîtrise d'ouvrage** | MOA | *project owner* | Partie qui exprime le besoin, finance et valide le projet. | A2 · S13 |
+| **Maîtrise d'œuvre** | MOE | *project contractor* | Partie qui réalise la solution. | A2 · S13 |
+| **Management situationnel** |  | *situational leadership* | Style de direction adapté à la maturité du collaborateur. | A2 · S12 |
 | **Marge sur coûts variables** | MCV | *contribution margin* | Chiffre d'affaires moins charges variables. | A2 · S03 |
+| **Marge totale** |  | *total float* | Retard maximal d'une tâche sans retarder le projet. | A2 · S13 |
+| **Modèle de Lewin** |  | *Lewin's change model* | Changement en trois temps : décristalliser, changer, recristalliser. | A2 · S14 |
 | **Modèle économique** |  | *business model* | Façon dont une entreprise crée, délivre et capte de la valeur. | A2 · S03 |
+| **Numérique responsable** |  | *sustainable IT* | Démarche de réduction de l'impact environnemental et social du numérique. | A2 · S15 |
+| **Organigramme** |  | *organization chart* | Représentation des postes et des liens hiérarchiques d'une organisation. | A2 · S11 |
+| **Organisation agile** |  | *agile organization* | Organisation en équipes autonomes travaillant par itérations courtes. | A2 · S11 |
 | **Part de marché** |  | *market share* | Chiffre d'affaires de l'entreprise divisé par celui du marché. | A2 · S02 |
 | **Partie prenante** |  | *stakeholder* | Personne ou groupe concerné par l'activité de l'entreprise. | A1 · S03 |
 | **Performance** |  | *performance* | Capacité de l'entreprise à atteindre ses objectifs avec efficacité et efficience. | A1 · S03 |
@@ -95,15 +110,18 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Planification des ressources de l'entreprise** | ERP | *enterprise resource planning* | Logiciel de gestion intégrée. | A1 · S05 |
 | **Point de contact unique** | SPOC | *single point of contact* | Guichet unique pour les demandes des utilisateurs. | A1 · S08 |
 | **Portage salarial** |  |  | Dispositif où un consultant est salarié d'une société de portage qui facture ses missions. | A1 · S04 |
+| **Power Usage Effectiveness** | PUE | *power usage effectiveness* | Énergie totale d'un centre de données divisée par l'énergie des équipements informatiques. | A2 · S15 |
 | **Préavis** |  | *notice period* | Délai entre l'annonce de la rupture et la fin effective du contrat. | A2 · S09 |
 | **Prime de précarité** |  | *end-of-contract allowance* | Indemnité de fin de CDD, en principe 10 % de la rémunération brute totale. | A2 · S06 |
 | **Protocole de synchronisation de l'heure** | NTP | *network time protocol* | Protocole qui synchronise les horloges des machines. | A1 · S18 |
+| **Pyramide de Maslow** |  | *Maslow's hierarchy of needs* | Hiérarchie des besoins, des besoins physiologiques à l'accomplissement. | A2 · S12 |
 | **Recherche et développement** | R&D | *research and development* | Activités de recherche et de conception de produits ou de procédés nouveaux. | A2 · S01 |
 | **Règlement général sur la protection des données** | RGPD | *GDPR* | Règlement européen sur les données personnelles. | A1 · S13 |
 | **Règlement intérieur** |  | *internal rules* | Document de l'employeur, obligatoire dès 50 salariés, sur la discipline, la santé et la sécurité. | A2 · S08 |
 | **Règlement sur les services numériques** | DSA | *digital services act* | Règlement européen sur les services numériques et les plateformes. | A1 · S12 |
 | **Responsabilité civile** |  | *civil liability* | Obligation de réparer le dommage causé. | A1 · S07 |
 | **Responsabilité pénale** |  | *criminal liability* | Obligation de répondre d'une infraction devant le juge pénal. | A1 · S07 |
+| **Responsabilité sociétale des entreprises** | RSE | *corporate social responsibility* | Prise en compte par l'entreprise des enjeux sociaux et environnementaux. | A2 · S15 |
 | **Responsable de la sécurité des systèmes d'information** | RSSI |  | Personne chargée de la sécurité du système d'information. | A1 · S08 |
 | **Revenu mensuel récurrent** | MRR | *monthly recurring revenue* | Revenus mensuels d'abonnement. | A2 · S03 |
 | **Rupture conventionnelle** |  | *mutually agreed termination* | Rupture du CDI d'un commun accord, avec homologation administrative. | A2 · S09 |
@@ -116,11 +134,19 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Société par actions simplifiée** | SAS |  | Société à organisation souple, dont les statuts fixent le fonctionnement. | A1 · S06 |
 | **Société par actions simplifiée unipersonnelle** | SASU |  | SAS à associé unique. | A1 · S06 |
 | **Solutions d'infrastructure, systèmes et réseaux** | SISR |  | Option du BTS SIO tournée vers l'administration des systèmes et réseaux. | A1 · S01 |
+| **Structure divisionnelle** |  | *divisional structure* | Organisation regroupée par produit, client ou zone géographique. | A2 · S11 |
+| **Structure matricielle** |  | *matrix structure* | Organisation à double rattachement, par fonction et par projet. | A2 · S11 |
+| **Taux d'absentéisme** |  | *absenteeism rate* | Jours d'absence rapportés aux jours théoriques de travail. | A2 · S12 |
+| **Taux d'adoption** |  | *adoption rate* | Utilisateurs actifs rapportés aux utilisateurs visés. | A2 · S14 |
 | **Taux d'effort de recherche** |  | *R&D intensity* | Dépenses de R&D divisées par le chiffre d'affaires. | A2 · S01 |
 | **Taux de départ** |  | *churn rate* | Part des clients qui quittent le service sur une période. | A2 · S03 |
+| **Taux de turnover** |  | *turnover rate* | Départs de la période rapportés à l'effectif moyen. | A2 · S12 |
 | **Taux journalier moyen** | TJM | *daily rate* | Prix facturé pour une journée de prestation. | A1 · S04 |
 | **Temps moyen de rétablissement** | MTTR | *mean time to repair* | Durée moyenne pour remettre le service en état. | A1 · S09 |
 | **Temps moyen entre pannes** | MTBF | *mean time between failures* | Durée moyenne de fonctionnement entre deux pannes. | A1 · S09 |
+| **Théorie des deux facteurs** |  | *two-factor theory* | Théorie de Herzberg distinguant facteurs d'hygiène et facteurs de motivation. | A2 · S12 |
+| **Transformation numérique** |  | *digital transformation* | Évolution des processus et des métiers grâce aux technologies numériques. | A2 · S14 |
 | **Travailleur non salarié** | TNS |  | Dirigeant affilié au régime social des indépendants. | A1 · S06 |
+| **Unité de commandement** |  | *unity of command* | Principe selon lequel chacun reçoit des ordres d'un seul supérieur. | A2 · S11 |
 | **Utilisation de ses équipements personnels** | BYOD | *bring your own device* | Usage d'appareils personnels pour le travail. | A1 · S11 |
 | **Valeur vie client** | LTV | *lifetime value* | Marge qu'un client rapporte pendant toute sa durée d'abonnement. | A2 · S03 |
