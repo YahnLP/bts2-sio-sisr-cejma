@@ -10,7 +10,9 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Accord de niveau de service** | SLA | *service level agreement* | Engagement chiffré du prestataire sur la qualité du service. | A1 · S08 |
 | **Agence nationale de la sécurité des systèmes d'information** | ANSSI |  | Autorité française de cybersécurité. | A1 · S15 |
 | **Analyse d'impact relative à la protection des données** | AIPD | *DPIA* | Analyse requise pour les traitements à risque élevé. | A1 · S15 |
+| **Analyse de sensibilité** |  | *sensitivity analysis* | Test de l'effet d'un changement d'hypothèse (poids, prix) sur un résultat. | A2 · S17 |
 | **Audit d'acquisition** |  | *due diligence* | Examen des comptes, contrats et risques d'une entreprise avant de la racheter. | A2 · S04 |
+| **Autonomie financière** |  | *financial independence ratio* | Capitaux propres rapportés au total du passif. | A2 · S16 |
 | **Autorité de régulation des communications électroniques** | ARCEP |  | Autorité qui régule les télécommunications et veille à la neutralité du net. | A1 · S12 |
 | **Avantage concurrentiel** |  | *competitive advantage* | Ce qui permet à une entreprise de mieux réussir que ses concurrents durablement. | A2 · S02 |
 | **Besoin en fonds de roulement** | BFR |  | Besoin de financement du cycle d'exploitation. | A1 · S10 |
@@ -28,6 +30,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Cinq forces de Porter** |  | *Porter's five forces* | Outil qui mesure l'intensité de la concurrence d'un secteur. | A2 · S02 |
 | **Clause de mobilité** |  | *mobility clause* | Clause qui permet à l'employeur de changer le lieu de travail dans une zone définie au contrat. | A2 · S06 |
 | **Clause de non-concurrence** |  | *non-compete clause* | Clause qui limite l'activité d'une personne après la fin de son contrat. | A2 · S05 |
+| **Clause pénale** |  | *penalty clause* | Clause qui fixe à l'avance l'indemnité due en cas de retard ou d'inexécution. | A2 · S18 |
 | **Comité social et économique** | CSE |  | Instance de représentation du personnel. | A1 · S07 |
 | **Commission nationale de l'informatique et des libertés** | CNIL |  | Autorité française de protection des données. | A1 · S13 |
 | **Conduite du changement** |  | *change management* | Ensemble des actions qui accompagnent les personnes lors d'un changement. | A2 · S14 |
@@ -61,6 +64,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Environnement politique, économique, socioculturel, technologique, écologique et légal** | PESTEL |  | Grille d'analyse de l'environnement externe d'une entreprise. | A2 · S02 |
 | **Épreuve E4** | E4 |  | Épreuve écrite de culture économique, juridique et managériale (4 h, coefficient 3). | A1 · S19 |
 | **Étendue du contrôle** |  | *span of control* | Nombre de subordonnés directs placés sous un responsable. | A2 · S11 |
+| **Excédent brut d'exploitation** | EBE | *EBITDA* | Marge brute moins charges de personnel et autres charges externes, avant amortissements. | A2 · S16 |
 | **Externalité** |  | *externality* | Effet d'une activité sur des tiers, sans compensation par le marché. | A1 · S02 |
 | **Faute grave** |  | *serious misconduct* | Faute qui rend impossible le maintien du salarié dans l'entreprise, même pendant le préavis. | A2 · S08 |
 | **Faute inexcusable** |  | *inexcusable fault* | Faute de l'employeur qui avait conscience d'un danger sans prendre les mesures nécessaires. | A2 · S10 |
@@ -70,6 +74,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Fournisseur d'accès à Internet** | FAI | *ISP* | Opérateur qui donne l'accès à Internet. | A1 · S12 |
 | **Garantie de temps d'intervention** | GTI |  | Délai maximal de prise en charge après signalement. | A1 · S09 |
 | **Garantie de temps de rétablissement** | GTR |  | Délai maximal de rétablissement du service. | A1 · S09 |
+| **Grille de décision pondérée** |  | *weighted decision matrix* | Outil qui note des options sur des critères pondérés dont le total est 100 %. | A2 · S17 |
 | **Harcèlement moral** |  | *workplace bullying* | Agissements répétés qui dégradent les conditions de travail et portent atteinte à la santé. | A2 · S10 |
 | **Heures supplémentaires** |  | *overtime* | Heures accomplies au-delà de 35 h par semaine, majorées. | A2 · S07 |
 | **Hors taxes** | HT |  | Prix ou montant sans la taxe sur la valeur ajoutée. | A1 · S03 |
@@ -95,6 +100,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Maîtrise d'ouvrage** | MOA | *project owner* | Partie qui exprime le besoin, finance et valide le projet. | A2 · S13 |
 | **Maîtrise d'œuvre** | MOE | *project contractor* | Partie qui réalise la solution. | A2 · S13 |
 | **Management situationnel** |  | *situational leadership* | Style de direction adapté à la maturité du collaborateur. | A2 · S12 |
+| **Marge brute** |  | *gross margin* | Chiffre d'affaires moins les achats et la sous-traitance. | A2 · S16 |
 | **Marge sur coûts variables** | MCV | *contribution margin* | Chiffre d'affaires moins charges variables. | A2 · S03 |
 | **Marge totale** |  | *total float* | Retard maximal d'une tâche sans retarder le projet. | A2 · S13 |
 | **Modèle de Lewin** |  | *Lewin's change model* | Changement en trois temps : décristalliser, changer, recristalliser. | A2 · S14 |
@@ -136,10 +142,13 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Solutions d'infrastructure, systèmes et réseaux** | SISR |  | Option du BTS SIO tournée vers l'administration des systèmes et réseaux. | A1 · S01 |
 | **Structure divisionnelle** |  | *divisional structure* | Organisation regroupée par produit, client ou zone géographique. | A2 · S11 |
 | **Structure matricielle** |  | *matrix structure* | Organisation à double rattachement, par fonction et par projet. | A2 · S11 |
+| **Tableau de bord** |  | *dashboard* | Document réunissant quelques indicateurs clés avec objectifs et écarts. | A2 · S16 |
 | **Taux d'absentéisme** |  | *absenteeism rate* | Jours d'absence rapportés aux jours théoriques de travail. | A2 · S12 |
 | **Taux d'adoption** |  | *adoption rate* | Utilisateurs actifs rapportés aux utilisateurs visés. | A2 · S14 |
 | **Taux d'effort de recherche** |  | *R&D intensity* | Dépenses de R&D divisées par le chiffre d'affaires. | A2 · S01 |
+| **Taux d'occupation** |  | *utilization rate* | Jours facturés rapportés aux jours disponibles. | A2 · S16 |
 | **Taux de départ** |  | *churn rate* | Part des clients qui quittent le service sur une période. | A2 · S03 |
+| **Taux de rentabilité nette** |  | *net profit margin* | Résultat net rapporté au chiffre d'affaires. | A2 · S16 |
 | **Taux de turnover** |  | *turnover rate* | Départs de la période rapportés à l'effectif moyen. | A2 · S12 |
 | **Taux journalier moyen** | TJM | *daily rate* | Prix facturé pour une journée de prestation. | A1 · S04 |
 | **Temps moyen de rétablissement** | MTTR | *mean time to repair* | Durée moyenne pour remettre le service en état. | A1 · S09 |

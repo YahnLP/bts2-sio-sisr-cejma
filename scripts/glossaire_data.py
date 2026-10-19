@@ -149,4 +149,14 @@ DATA = [
 ("Power Usage Effectiveness", "PUE", "power usage effectiveness", "Énergie totale d'un centre de données divisée par l'énergie des équipements informatiques.", "A2 · S15"),
 ("Écoblanchiment", None, "greenwashing", "Communication exagérant ou inventant des qualités environnementales.", "A2 · S15"),
 ("Numérique responsable", None, "sustainable IT", "Démarche de réduction de l'impact environnemental et social du numérique.", "A2 · S15"),
+# --- A2 : phase 4
+("Marge brute", None, "gross margin", "Chiffre d'affaires moins les achats et la sous-traitance.", "A2 · S16"),
+("Excédent brut d'exploitation", "EBE", "EBITDA", "Marge brute moins charges de personnel et autres charges externes, avant amortissements.", "A2 · S16"),
+("Taux de rentabilité nette", None, "net profit margin", "Résultat net rapporté au chiffre d'affaires.", "A2 · S16"),
+("Autonomie financière", None, "financial independence ratio", "Capitaux propres rapportés au total du passif.", "A2 · S16"),
+("Taux d'occupation", None, "utilization rate", "Jours facturés rapportés aux jours disponibles.", "A2 · S16"),
+("Tableau de bord", None, "dashboard", "Document réunissant quelques indicateurs clés avec objectifs et écarts.", "A2 · S16"),
+("Grille de décision pondérée", None, "weighted decision matrix", "Outil qui note des options sur des critères pondérés dont le total est 100 %.", "A2 · S17"),
+("Analyse de sensibilité", None, "sensitivity analysis", "Test de l'effet d'un changement d'hypothèse (poids, prix) sur un résultat.", "A2 · S17"),
+("Clause pénale", None, "penalty clause", "Clause qui fixe à l'avance l'indemnité due en cas de retard ou d'inexécution.", "A2 · S18"),
 ]

@@ -1,8 +1,5 @@
 # S16 – Piloter la performance : indicateurs et tableaux de bord
 
-> [!WARNING]
-> **Séance à rédiger.** Cette page donne le cadre prévu. Le cours, l'étude de cas et l'aide-mémoire arrivent avec la phase correspondante.
-
 | Élément | Détail |
 |---|---|
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
@@ -26,16 +23,40 @@
 4. Concevoir un **tableau de bord**
 5. Commenter une dérive
 
-## Contenu prévu
+## Contenu de la séance
 
-- Cours : notions de la séance, exemples
-- Étude de cas : dossier documentaire fictif « Orion Services » et questions
-- Aide-mémoire : l'essentiel sur une page
+| Document | Rôle |
+|---|---|
+| [Cours](01-cours.md) | Notions de la séance |
+| [Étude de cas](02-etude-de-cas.md) | Dossier fictif « Orion Services » et questions |
+| [Aide-mémoire](03-aide-memoire.md) | L'essentiel sur une page |
+
+## Déroulé conseillé (4 h)
+
+| Durée | Activité | Format |
+|---|---|---|
+| 15 min | **Accroche : « Le chiffre d'affaires augmente de 9 %, le bénéfice baisse : est-ce possible ? »** | Échange |
+| 90 min | Cours | Cours interactif |
+| 15 min | Pause | |
+| 100 min | Étude de cas | Individuel puis correction |
+| 20 min | Auto-évaluation | Individuel |
+
+*Durées indicatives : la séance dure 4 h ; l'enseignant ajuste selon le rythme du groupe.*
+
+## Retour en entreprise
+
+Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet de la séance ? Cherche un exemple concret et note-le en quelques lignes.
+
+## Évaluation
+
+- Étude de cas remise à la fin de la séance, notée sur 20 points.
+- Auto-évaluation « Je sais faire » en fin d'étude de cas.
 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- Le choix du thème et de la séance est une proposition à valider (annexe I non relue).
-- Corrigé prévu dans `corriges/` (hors du site publié).
+- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
+- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
+- Dossier **fictif**, chiffres recalculés. Définitions comptables simplifiées : à confronter au référentiel de gestion de la 1re année.
 
 </details>
