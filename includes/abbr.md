@@ -24,6 +24,7 @@
 *[EURL]: Entreprise unipersonnelle à responsabilité limitée : SARL à associé unique.
 *[PESTEL]: Environnement politique, économique, socioculturel, technologique, écologique et légal : Grille d'analyse de l'environnement externe d'une entreprise.
 *[E4]: Épreuve E4 : Épreuve écrite de culture économique, juridique et managériale (4 h, coefficient 3).
+*[EBE]: Excédent brut d'exploitation : Marge brute moins charges de personnel et autres charges externes, avant amortissements.
 *[SWOT]: Forces, faiblesses, opportunités, menaces : Tableau de diagnostic : forces et faiblesses (internes), opportunités et menaces (externes).
 *[FAI]: Fournisseur d'accès à Internet : Opérateur qui donne l'accès à Internet.
 *[GTI]: Garantie de temps d'intervention : Délai maximal de prise en charge après signalement.
