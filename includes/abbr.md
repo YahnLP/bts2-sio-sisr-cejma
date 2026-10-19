@@ -38,13 +38,17 @@
 *[SaaS]: Logiciel en tant que service : Logiciel utilisé en ligne par abonnement.
 *[PACTE]: Loi PACTE : Loi relative à la croissance et à la transformation des entreprises (2019).
 *[LCEN]: Loi pour la confiance dans l'économie numérique : Loi de 2004 qui encadre la responsabilité des acteurs d'Internet.
+*[MOA]: Maîtrise d'ouvrage : Partie qui exprime le besoin, finance et valide le projet.
+*[MOE]: Maîtrise d'œuvre : Partie qui réalise la solution.
 *[MCV]: Marge sur coûts variables : Chiffre d'affaires moins charges variables.
 *[PME]: Petite et moyenne entreprise : Entreprise de taille moyenne selon des seuils d'effectif et de chiffre d'affaires.
 *[ERP]: Planification des ressources de l'entreprise : Logiciel de gestion intégrée.
 *[SPOC]: Point de contact unique : Guichet unique pour les demandes des utilisateurs.
+*[PUE]: Power Usage Effectiveness : Énergie totale d'un centre de données divisée par l'énergie des équipements informatiques.
 *[NTP]: Protocole de synchronisation de l'heure : Protocole qui synchronise les horloges des machines.
 *[RGPD]: Règlement général sur la protection des données : Règlement européen sur les données personnelles.
 *[DSA]: Règlement sur les services numériques : Règlement européen sur les services numériques et les plateformes.
+*[RSE]: Responsabilité sociétale des entreprises : Prise en compte par l'entreprise des enjeux sociaux et environnementaux.
 *[RSSI]: Responsable de la sécurité des systèmes d'information : Personne chargée de la sécurité du système d'information.
 *[MRR]: Revenu mensuel récurrent : Revenus mensuels d'abonnement.
 *[SIO]: Services informatiques aux organisations : Spécialité du BTS, avec les options SISR et SLAM.
