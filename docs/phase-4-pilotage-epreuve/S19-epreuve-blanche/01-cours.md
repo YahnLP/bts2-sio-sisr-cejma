@@ -48,6 +48,40 @@ Corrige-toi avec la grille que l'enseignant te remet, puis remplis le tableau su
 
 Ton **plan de révision** : trois séances à revoir en priorité, pour chacune la tâche à faire (refaire un calcul, relire le cours, refaire un cas) et la date.
 
+## Comprendre pas à pas
+
+### Passer de l'épreuve blanche au plan de révision
+
+**Étape 1. Convertir les points.** Chaque dossier vaut 25 points. Total sur 100, puis sur 20 : on divise par 5.
+
+| Dossier | Points | Taux | Séances |
+|---|---:|---:|---|
+| 1 – Innovation et stratégie | 18 / 25 | 72 % | S01 à S05 |
+| 2 – Droit du travail | 15 / 25 | 60 % | S06 à S10 |
+| 3 – Management et projet | 20 / 25 | 80 % | S11 à S15 |
+| 4 – Pilotage et décision | 12 / 25 | 48 % | S16 à S17 |
+| **Total** | **65 / 100** | | **13 / 20** |
+
+**Étape 2. Chercher la cause de chaque perte.** Pour les dossiers faibles, relis ta copie et classe chaque perte :
+
+| Type de perte | Exemple | Remède |
+|---|---|---|
+| **Notion absente** | Définition oubliée | Relire le cours, fiche de notions |
+| **Application absente** | Aucune citation du dossier | S'entraîner à citer « doc. 2 » |
+| **Calcul** | Erreur de formule ou d'unité | Refaire 3 calculs de la séance |
+| **Conclusion absente** | Pas de phrase de réponse | Terminer chaque réponse par une phrase |
+| **Temps** | Dernière question vide | Respecter le temps par point |
+
+**Étape 3. Fixer un plan court.** Trois séances prioritaires, avec pour chacune une **tâche précise** (refaire un calcul, relire un cours, refaire un cas), une **durée** et une **date**.
+
+### La veille de l'épreuve
+
+1. Prépare le matériel : pièce d'identité, convocation, stylos, calculatrice autorisée.
+2. Relis uniquement l'**aide-mémoire** de la méthode.
+3. Couche-toi à une heure normale.
+
+Un exemple d'emploi du temps réel : [la semaine d'examen](04-cas-reels.md).
+
 ## À retenir
 
 - Mets-toi en **vraies conditions** : c'est ainsi que l'épreuve te donnera de l'information utile.

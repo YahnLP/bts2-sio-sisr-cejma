@@ -64,6 +64,44 @@ Une recommandation tient en quatre éléments : **choix** clair, **raisons** (ch
 Techniquement oui, d'où l'importance de **justifier** les poids par la stratégie de l'entreprise et de présenter une **analyse de sensibilité** : le choix est solide s'il résiste à des poids différents.
 </details>
 
+## Comprendre pas à pas
+
+### Remplir une grille pondérée, puis la tester
+
+Reprenons la grille du cours : critère **rentabilité** et critère **risque**, notes de 1 à 5 (une note élevée en risque signifie un risque **faible**).
+
+| Critère | Poids | Option A | Option B |
+|---|---:|---:|---:|
+| Rentabilité | 60 % | 4 | 3 |
+| Risque | 40 % | 2 | 4 |
+
+**Calcul.** Option A : 0,6 × 4 + 0,4 × 2 = 2,4 + 0,8 = **3,2**. Option B : 0,6 × 3 + 0,4 × 4 = 1,8 + 1,6 = **3,4**. B l'emporte.
+
+**Test de sensibilité.** Avec 70 % pour la rentabilité et 30 % pour le risque : A = 0,7 × 4 + 0,3 × 2 = **3,4** et B = 0,7 × 3 + 0,3 × 4 = **3,3**. **A** passe devant.
+
+**Seuil.** Les deux options sont à égalité quand le poids *p* de la rentabilité vérifie 4*p* + 2(1 − *p*) = 3*p* + 4(1 − *p*), soit *p* = 2/3 (environ 67 %). Au-dessus, A l'emporte ; en dessous, B.
+
+> [!TIP]
+> En copie, écris : « B est préféré **tant que** la rentabilité pèse moins de deux tiers du total ». Le choix est **robuste** s'il résiste à des poids raisonnables.
+
+### Croiser les trois regards sur une option
+
+| Option : migrer 200 postes vers un autre système | Économique | Juridique | Managérial |
+|---|---|---|---|
+| **Question** | Coût total, gains, délai de récupération | Contrat, licences, achats publics ou privés, données | Formation, résistances, charge de l'équipe |
+| **Point de conflit possible** | Rentable sur 3 ans | Clause de sortie absente | Équipe déjà surchargée |
+
+Le **délai de récupération** (S04) = investissement ÷ gain annuel : pour 60 000 € investis et 20 000 € de gain par an, **3 ans**.
+
+### Écrire la recommandation
+
+1. **Choix** : « Je recommande l'option B. »
+2. **Raisons** : un chiffre, une règle de droit, un fait managérial.
+3. **Conditions** : formation, calendrier, clause de sortie.
+4. **Risques résiduels** et **réponse aux objections**.
+
+Un cas réel où deux récits s'opposent sur la même décision : [Munich et LiMux](04-cas-reels.md).
+
 ## À retenir
 
 - Diagnostiquer → options → évaluer → recommander.
