@@ -14,6 +14,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Pourquoi un changement échoue-t-il, et comment l'accompagner ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** La conduite du changement est aussi vue en [bloc 1 (2e année), S05 – Recette, mise en production et conduite du changement](https://yahnlp.github.io/bts2-sio-sisr-bloc1/phase-1-gerer-un-projet/S05-recette-et-conduite-du-changement/) (recette, mise en production, adoption). Selon l'ordre de vos séances, la première pose les bases et la seconde les reprend en rappel (15 à 20 minutes). Ici, garder l'angle management de la transformation numérique.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :

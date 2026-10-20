@@ -61,7 +61,7 @@ La protection de la valeur créée (secret des affaires, droits de propriété i
 
 ## À réexaminer
 
-- **S13 (gestion de projet) et S14 (conduite du changement)** recoupent le bloc 1 de 2e année (S01 à S05, projet et conduite du changement). Si le bloc 1 est traité avant, ces deux séances pourraient être allégées : à décider avec l'enseignant du bloc 1, une fois ce bloc en ligne.
+- **S13 (gestion de projet) et S14 (conduite du changement)** recoupent le bloc 1 de 2e année (S01 à S05, projet et conduite du changement). Si le bloc 1 est traité avant, ces deux séances pourraient être allégées : à décider avec l'enseignant du bloc 1. Un encadré « Recoupement » renvoie déjà vers ses séances S01 à S05.
 - **S15 (RSE et numérique responsable)** recoupe en partie la séance sur le coût de possession, l'éthique et l'environnement du bloc 2 (complément dans son parcours). Garder au moins l'une des deux.
 
 ## Pour aller plus loin si le temps manque encore
