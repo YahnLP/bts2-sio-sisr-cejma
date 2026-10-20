@@ -5,7 +5,7 @@
 | Question | Points | Attendu |
 |---|---|---|
 | 1 | 5 | Cinq contrats justifiés (1 point chacun) |
-| 2 | 3 | Lien de subordination ; faits cités ; conséquences |
+| 2 | 3 | Lien de ​subordination ; faits cités ; conséquences |
 | 3 | 3 | Emploi permanent ; recours abusif ; requalification |
 | 4 | 3 | 3 mois ; clause irrégulière ; conséquence |
 | 5 | 3 | Zone géographique non définie ; conséquence |
@@ -18,7 +18,7 @@
 | **A** Analyser | 2, 3 |
 | **B** Exploiter la base documentaire | 2, 4, 5 |
 | **C** Proposer | 1 |
-| **D** Diagnostiquer | 2, 3 |
+| **D** ​Diagnostiquer | 2, 3 |
 | **E** Exposer | 1, 6 |
 
 ## Erreurs fréquentes
@@ -33,4 +33,4 @@
 
 6 × 2 400 = 14 400 ; 14 400 × 10 % = 1 440 (recalculés par programme).
 
-**À relire sur Légifrance avant diffusion (citées de mémoire) :** éléments du contrat de travail et critère de la subordination (jurisprudence de la Cour de cassation, 1996) ; cas de recours au CDD et plafond de 18 mois (code du travail, articles L. 1242-1 et suivants, L. 1242-8) ; prime de précarité de 10 % et ses exclusions (article L. 1243-8) ; durées d'essai (articles L. 1221-19 et L. 1221-21 : 2, 3, 4 mois) ; clause de mobilité (jurisprudence : zone géographique définie) ; requalification du CDD (article L. 1245-1). Aucun numéro d'article ne figure dans les pages destinées aux élèves.
+**À relire sur Légifrance avant diffusion (citées de mémoire) :** éléments du contrat de travail et ​critère de la subordination (jurisprudence de la Cour de cassation, 1996) ; cas de recours au CDD et plafond de 18 mois (code du travail, articles L. 1242-1 et suivants, L. 1242-8) ; prime de précarité de 10 % et ses exclusions (article L. 1243-8) ; durées d'essai (articles L. 1221-19 et L. 1221-21 : 2, 3, 4 mois) ; clause de mobilité (jurisprudence : zone géographique définie) ; requalification du CDD (article L. 1245-1). Aucun numéro d'article ne figure dans les pages destinées aux élèves.

@@ -4,7 +4,7 @@
 
 | Question | Points | Attendu |
 |---|---|---|
-| 1 | 4 | Trois classements ; un avantage et un risque pour chacune |
+| 1 | 4 | Trois ​classements ; un avantage et un risque pour chacune |
 | 2 | 3 | 30 % ; 7,4 % ; commentaire |
 | 3 | 3 | 4 ans ; 0,6 an ; 0,2 an |
 | 4 | 4 | 32 000 ; 268 000 ; 4,5 ans ; coût du financement |
@@ -19,7 +19,7 @@
 | **B** Exploiter la base documentaire | 2, 3, 4 |
 | **C** Proposer | 6 |
 | **D** Diagnostiquer | 3, 4, 5 |
-| **E** Exposer | 6 |
+| **E** ​Exposer | 6 |
 
 ## Erreurs fréquentes
 
