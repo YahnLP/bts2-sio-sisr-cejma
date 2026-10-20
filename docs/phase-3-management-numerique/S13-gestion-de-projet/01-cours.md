@@ -67,6 +67,44 @@ On identifie les risques, on les évalue (**probabilité × gravité**), puis on
 Le projet est retardé de **deux semaines**, puisque les tâches du chemin critique n'ont pas de marge. (Sauf si l'on gagne du temps sur une autre tâche du chemin.)
 </details>
 
+## Comprendre pas à pas
+
+### Calculer un réseau de tâches pas à pas
+
+*Exemple.* A (3 jours) précède B (4 jours) et C (2 jours) ; D (3 jours) suit B **et** C.
+
+| Tâche | Antécédents | Début au plus tôt | Fin au plus tôt | Début au plus tard | Marge |
+|---|---|---:|---:|---:|---:|
+| A | – | 0 | 3 | 0 | 0 |
+| B | A | 3 | 7 | 3 | 0 |
+| C | A | 3 | 5 | 5 | **2** |
+| D | B, C | 7 | 10 | 7 | 0 |
+
+Le **chemin critique** est **A → B → D**, soit **10 jours** : la durée minimale du projet. C peut prendre **2 jours de retard** sans effet sur la date finale.
+
+> [!NOTE]
+> D commence quand **les deux** antécédents sont finis : on retient la fin au plus tôt **la plus tardive** (7, et non 5).
+
+### Évaluer un risque : probabilité × gravité
+
+| Risque | Probabilité (1-4) | Gravité (1-4) | Cote | Réponse |
+|---|---:|---:|---:|---|
+| Retard du fournisseur | 3 | 3 | 9 | **Réduire** : relances, second fournisseur |
+| Panne du serveur de test | 2 | 2 | 4 | **Accepter** |
+| Perte de données | 1 | 4 | 4 | **Transférer** (sauvegarde externalisée) ou **réduire** |
+
+*Échelles fictives.* Les quatre réponses : éviter, réduire, transférer, accepter.
+
+### Tenir les trois contraintes
+
+| Si je… | Alors… |
+|---|---|
+| raccourcis le **délai** | le **coût** augmente (renforts) ou le **périmètre** diminue |
+| élargis le **périmètre** | délai et coût augmentent |
+| réduis le **coût** | délai plus long ou périmètre réduit |
+
+Un grand projet public arrêté après sept ans : [ONP](04-cas-reels.md).
+
 ## À retenir
 
 - Projet = objectif, début, fin ; contraintes **coût, délai, qualité**.

@@ -74,6 +74,42 @@ La structure dépend de la **taille**, de la **stratégie**, de l'**environnemen
 Une **étendue du contrôle trop étroite** : beaucoup de niveaux pour peu de personnes, donc de la lenteur et des coûts de management. On peut **aplatir** la structure.
 </details>
 
+## Comprendre pas à pas
+
+### Étendue du contrôle et nombre de niveaux : un calcul
+
+Plus un responsable encadre de personnes directement, **moins la structure a besoin de niveaux**. Pour 81 personnes à encadrer :
+
+| Étendue du contrôle | Niveaux sous la direction | Calcul |
+|---:|---:|---|
+| 3 personnes par responsable | **4** | \(3 + 9 + 27 + 81\) (soit 120 postes de tous niveaux) |
+| 9 personnes par responsable | **2** | \(9 + 81\) (soit 90 postes) |
+
+> [!NOTE]
+> Une étendue large aplatit la structure (moins de relais, décisions plus rapides) mais demande des équipes **autonomes** : c'est l'idée des équipes agiles.
+
+### Choisir une structure : quelle question poser ?
+
+| Situation | Structure probable |
+|---|---|
+| Petite ESN, un seul type de service | **Simple** ou **fonctionnelle** |
+| Plusieurs clients ou marchés, besoin d'autonomie | **Divisionnelle** |
+| Experts partagés entre plusieurs projets | **Matricielle** (attention à la double commande) |
+| Mission ponctuelle | **Par projet** |
+| Environnement changeant, équipes mûres | **Agile** (équipes pluridisciplinaires) |
+
+### Repérer le mécanisme de coordination
+
+| Phrase entendue | Mécanisme |
+|---|---|
+| « Le chef d'équipe distribue les tickets. » | Supervision directe |
+| « Il y a une procédure pour chaque incident. » | Standardisation des procédés |
+| « Objectif : livrer sous 24 h. » | Standardisation des résultats |
+| « Il faut la certification pour intervenir. » | Standardisation des qualifications |
+| « On se met d'accord à la réunion de 9 h. » | Ajustement mutuel |
+
+Un cas réel d'organisation agile à grande échelle : [ING](04-cas-reels.md).
+
 ## À retenir
 
 - Organiser = **diviser** et **coordonner**.

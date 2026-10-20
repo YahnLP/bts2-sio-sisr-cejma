@@ -30,6 +30,7 @@
 | [Cours](01-cours.md) | Notions de la séance |
 | [Étude de cas](02-etude-de-cas.md) | Dossier fictif « Verdi Cloud » et questions |
 | [Aide-mémoire](03-aide-memoire.md) | L'essentiel sur une page |
+| [Cas réel](04-cas-reels.md) | Empreinte carbone du numérique en France (note de l'Arcep, 2023) |
 
 ## Déroulé conseillé (4 h)
 

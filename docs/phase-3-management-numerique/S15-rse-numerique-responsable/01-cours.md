@@ -68,6 +68,40 @@ Une démarche RSE passe par : un **diagnostic**, des **objectifs** chiffrés, un
 150 ÷ 100 = **1,5**. Les 50 kWh supplémentaires servent notamment au refroidissement et à l'alimentation.
 </details>
 
+## Comprendre pas à pas
+
+### Citer un chiffre correctement
+
+Un chiffre sur l'impact du numérique est utilisable seulement avec :
+
+1. **L'organisme** (qui le dit ?).
+2. **L'année** et le **périmètre** (France, monde ; quelles activités ?).
+3. **Le scénario** pour une projection.
+4. **L'unité** (Mt CO2eq, TWh).
+
+> [!WARNING]
+> « Le numérique représente 2,5 % » ne veut rien dire seul. « Selon la note de l'Arcep de mars 2023, le numérique représentait **2,5 % de l'empreinte carbone de la France en 2020** » se vérifie.
+
+### Calculer le PUE et le coût annuel d'un équipement
+
+| Calcul | Exemple | Résultat |
+|---|---|---:|
+| **PUE** = énergie totale ÷ énergie des équipements informatiques | \(150/100\) | **1,5** |
+| **PUE** après amélioration du refroidissement | \(125/100\) | **1,25** |
+| **Coût annuel** = prix ÷ durée d'utilisation | \(900/4\) | **225 €** |
+| **Coût annuel** avec 6 ans d'usage | \(900/6\) | **150 €** |
+
+### Choisir un levier : où se trouve l'impact ?
+
+| Question | Si la réponse est… | Levier prioritaire |
+|---|---|---|
+| D'où vient la plus grosse part de l'impact ? | La **fabrication** | Durée de vie, réemploi, achats |
+| L'usage consomme-t-il beaucoup ? | Oui | Efficacité énergétique, sobriété |
+| Les données sont-elles toutes utiles ? | Non | Supprimer, archiver |
+| Les applications sont-elles lourdes ? | Oui | Éco-conception |
+
+Un exemple de chiffres publics à lire et à critiquer : [l'empreinte du numérique en France](04-cas-reels.md).
+
 ## À retenir
 
 - RSE = 3 piliers (économique, social, environnemental) ; parties prenantes.
