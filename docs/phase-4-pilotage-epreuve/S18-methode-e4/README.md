@@ -30,6 +30,7 @@
 | [Cours](01-cours.md) | Notions de la séance |
 | [Étude de cas](02-etude-de-cas.md) | Entraînement guidé « Cobalt Systèmes » et questions |
 | [Aide-mémoire](03-aide-memoire.md) | L'essentiel sur une page |
+| [Cas réel](04-cas-reels.md) | Lire les textes officiels de l'épreuve E4 : arrêté et calendrier |
 
 ## Déroulé conseillé (4 h)
 

@@ -73,6 +73,48 @@ Après chaque réponse, une grille de contrôle :
 Tu la traites en 25 à 30 minutes en structurant ta réponse (notion, application, conclusion), puis tu gardes 10 minutes de relecture. Tu ne la laisses pas vide : une réponse partielle rapporte des points.
 </details>
 
+## Comprendre pas à pas
+
+### Répartir son temps : l'exemple complet
+
+Dossier de 100 points, quatre questions : 25, 25, 30 et 20 points.
+
+| Étape | Calcul | Temps |
+|---|---|---:|
+| Lecture du sujet et du dossier | | 30 min |
+| Rédaction | 240 − 30 − 15 | 195 min |
+| Relecture | | 15 min |
+| Question 1 (25 pts) | 25 × 1,95 | ≈ 49 min |
+| Question 2 (25 pts) | 25 × 1,95 | ≈ 49 min |
+| Question 3 (30 pts) | 30 × 1,95 | ≈ 58 min |
+| Question 4 (20 pts) | 20 × 1,95 | = 39 min |
+
+Contrôle : 49 + 49 + 58 + 39 = 195 minutes. 
+
+### Une réponse complète : notion, application, conclusion
+
+*Question (5 points) : « Le livreur d'une plateforme peut-il être requalifié en salarié ? »*
+
+> **Notion.** Un contrat de travail suppose une prestation de travail, une rémunération et un **lien de subordination**, c'est-à-dire un travail sous l'autorité d'un employeur qui donne des ordres, contrôle l'exécution et peut sanctionner. Le nom du contrat importe peu : on regarde les **faits**.
+>
+> **Application.** Dans le document 2, l'application suit le livreur par **géolocalisation** et le **désactive** après plusieurs retards : ce sont un **contrôle** et une **sanction**.
+>
+> **Conclusion.** Ces faits caractérisent un lien de subordination : la **requalification en contrat de travail est possible**, malgré le statut d'auto-entrepreneur.
+
+C'est le raisonnement du cas [Take Eat Easy](../../phase-2-droit-du-travail/S06-contrat-de-travail/04-cas-reels.md).
+
+### Un plan de synthèse prêt à l'emploi
+
+| Partie | Contenu | Longueur indicative |
+|---|---|---|
+| **Constat** | 2 ou 3 chiffres du dossier, comparés | 3 lignes |
+| **Analyse** | Un paragraphe par champ : économique, juridique, managérial | 3 × 5 lignes |
+| **Recommandation** | Choix, conditions, risques, réponse à une objection | 6 lignes |
+
+### Lire un texte officiel avant de s'y fier
+
+Avant d'utiliser une règle (durée, coefficient, programme), pose trois questions : **qui** l'a publiée (organisme officiel), **quand** (date, session) et **sur quoi** elle porte (diplôme, option). Un cas réel : [lire les textes de l'épreuve E4](04-cas-reels.md).
+
 ## À retenir
 
 - Temps réparti **au prorata des points**.

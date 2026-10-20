@@ -71,6 +71,47 @@ Méthode : **constater** (chiffre, comparaison), **chercher la cause** (volume, 
 Les **charges ont augmenté plus vite** que le CA (personnel, sous-traitance), donc la marge se réduit. On compare le poids de chaque poste de charge d'une année sur l'autre.
 </details>
 
+## Comprendre pas à pas
+
+### Remonter un compte de résultat : une cascade
+
+On lit de haut en bas : à chaque ligne, on **retranche** un type de charge. Exemple fictif d'une petite ESN :
+
+| Ligne | Calcul | Montant | Taux (sur CA) |
+|---|---|---:|---:|
+| Chiffre d'affaires | | 2 000 000 € | 100 % |
+| − achats et sous-traitance | | − 400 000 € | |
+| **Marge brute** | 2 000 000 − 400 000 | **1 600 000 €** | **80 %** |
+| − charges de personnel | | − 1 100 000 € | 55 % |
+| − autres charges externes | | − 250 000 € | |
+| **EBE** | 1 600 000 − 1 100 000 − 250 000 | **250 000 €** | 12,5 % |
+| − amortissements | | − 70 000 € | |
+| **Résultat d'exploitation** | 250 000 − 70 000 | **180 000 €** | 9 % |
+| − charges financières et impôt | | − 80 000 € | |
+| **Résultat net** | 180 000 − 80 000 | **100 000 €** | **5 %** |
+
+> [!NOTE]
+> Quand le CA monte et le résultat net baisse, on cherche **quelle ligne** a grossi plus vite que le CA, et si elle est **exceptionnelle** (dépréciation, litige) ou **durable** (salaires, sous-traitance).
+
+### Commenter un ratio avec une référence
+
+Un ratio isolé ne dit rien. *Exemple.* Rentabilité nette : 5 % cette année contre 6,5 % l'an dernier.
+
+1. **Constat** : la rentabilité nette **recule de 1,5 point**.
+2. **Cause** : on compare le poids de chaque poste (personnel 55 % contre 52 % l'an dernier : + 3 points).
+3. **Impact** : 1,5 point de rentabilité = 30 000 € de moins sur 2 000 000 € de CA.
+4. **Action et suivi** : maîtriser les recrutements, suivre le taux d'occupation chaque mois.
+
+### Construire un tableau de bord lisible
+
+| Indicateur | Valeur | Objectif | Écart | Tendance | Alerte |
+|---|---:|---:|---:|---|---|
+| Taux d'occupation | 82 % | 85 % | − 3 points | en baisse | orange |
+| Marge brute | 80 % | 78 % | + 2 points | stable | vert |
+| Turnover | 18 % | 12 % | + 6 points | en hausse | rouge |
+
+Un cas réel à lire avec ces outils : [les résultats 2023 de Sopra Steria](04-cas-reels.md).
+
 ## À retenir
 
 - Piloter = mesurer, **comparer**, comprendre l'écart, décider.

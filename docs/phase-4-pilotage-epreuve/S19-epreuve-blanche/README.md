@@ -30,6 +30,7 @@
 | [Cours](01-cours.md) | Notions de la séance |
 | [Étude de cas](02-etude-de-cas.md) | Sujet de l'épreuve blanche (4 dossiers, 100 points) |
 | [Aide-mémoire](03-aide-memoire.md) | L'essentiel sur une page |
+| [Cas réel](04-cas-reels.md) | La semaine d'examen : calendrier officiel et plan de révision |
 
 ## Déroulé (4 h, en conditions d'épreuve)
 
