@@ -22,7 +22,7 @@ Il illustre la **croissance externe** (acquisition) : une entreprise intègre un
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(7{,}5 \times 10^9 / 28 \times 10^6 \approx 268\) dollars par développeur. Rapport : \(7{,}5 / 2 = 3{,}75\) : le prix est **3,75 fois** la valorisation de 2015 (environ trois ans plus tôt).
+7,5 × 10^9 / 28 × 10^6 ≈ 268 dollars par développeur. Rapport : 7,5 / 2 = 3,75 : le prix est **3,75 fois** la valorisation de 2015 (environ trois ans plus tôt).
 </details>
 
 **2.** Pourquoi payer **en actions** plutôt qu'en argent ? Cite **un avantage** et **un risque**.

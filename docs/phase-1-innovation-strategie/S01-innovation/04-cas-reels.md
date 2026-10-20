@@ -38,7 +38,7 @@ Innovation **de produit** (un appareil et des images sans pellicule) **de ruptur
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(13 \times 0{,}4536 \approx 5{,}9\) kg, soit **près de 6 kg**.
+13 × 0,4536 ≈ 5,9 kg, soit **près de 6 kg**.
 </details>
 
 **4.** Les **brevets** numériques de Kodak ont-ils une **valeur** même si l'entreprise va mal ? Pourquoi ?

@@ -98,8 +98,8 @@ Un service de supervision vendu **40 € par mois et par client**. Charges **var
 
 | Étape | Calcul | Résultat |
 |---|---|---:|
-| **Marge sur coûts variables** (MCV) par client | \(40 - 12\) | **28 €** |
-| **Seuil de rentabilité** (en clients) | \(9\,000 / 28\) | **321,4 → 322 clients** |
+| **Marge sur coûts variables** (MCV) par client | 40 - 12 | **28 €** |
+| **Seuil de rentabilité** (en clients) | 9 000 / 28 | **321,4 → 322 clients** |
 
 On arrondit **au-dessus** : 321 clients ne couvrent pas les charges fixes.
 
@@ -109,10 +109,10 @@ On arrondit **au-dessus** : 321 clients ne couvrent pas les charges fixes.
 
 | Indicateur | Calcul | Résultat |
 |---|---|---:|
-| **MRR** | \(500 \times 40\) | **20 000 €** |
-| **Durée de vie moyenne** | \(1 / 0{,}04\) | **25 mois** |
-| **LTV** (avec marge de 28 € par mois) | \(28 \times 25\) | **700 €** |
-| **LTV / CAC** | \(700 / 200\) | **3,5** |
+| **MRR** | 500 × 40 | **20 000 €** |
+| **Durée de vie moyenne** | 1 / 0,04 | **25 mois** |
+| **LTV** (avec marge de 28 € par mois) | 28 × 25 | **700 €** |
+| **LTV / CAC** | 700 / 200 | **3,5** |
 
 > [!TIP]
 > Un **LTV / CAC** supérieur à **3** est souvent cité comme un repère de bonne santé, mais cette valeur est une **convention de métier**, pas une règle.

@@ -18,7 +18,7 @@
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(0{,}34\ \% \times 72\,000\,000\,000 = 0{,}0034 \times 72 \times 10^9 = 244{,}8\) millions de dollars, soit **environ 245 M$**. La valeur dépend du **cours** : c'est une valeur **de l'époque**.
+0,34 % × 72 000 000 000 = 0,0034 × 72 × 10^9 = 244,8 millions de dollars, soit **environ 245 M$**. La valeur dépend du **cours** : c'est une valeur **de l'époque**.
 </details>
 
 **2.** Pourquoi Waymo a-t-elle pu agir **sans brevet** sur ces informations ?
@@ -52,7 +52,7 @@ Des **clauses de confidentialité** et, si elles sont valides, de **non-concurre
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-À 33 % : \(0{,}33 \times 3\,000 = 990\) € par mois, soit \(990 \times 12 = 11\,880\) € au total. À 50 % : \(1\,500\) € par mois, soit \(18\,000\) €. Ces pourcentages sont des **repères** : le montant exact dépend du **contrat** et de la **convention collective**.
+À 33 % : 0,33 × 3 000 = 990 € par mois, soit 990 × 12 = 11 880 € au total. À 50 % : 1 500 € par mois, soit 18 000 €. Ces pourcentages sont des **repères** : le montant exact dépend du **contrat** et de la **convention collective**.
 </details>
 
 **5.** Une clause interdit à un technicien de **travailler dans l'informatique** en **France** pendant **trois ans**, **sans indemnité**. Est-elle valable ? Justifie.

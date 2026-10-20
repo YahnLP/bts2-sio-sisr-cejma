@@ -129,8 +129,8 @@ Une entreprise réalise **8 000 000 €** de chiffre d'affaires. Elle consacre *
 
 | Indicateur | Calcul | Résultat |
 |---|---|---:|
-| **Taux d'effort de R&D** | \(640\,000 / 8\,000\,000\) | **8 %** |
-| **Part de chiffre d'affaires innovant** | \(2\,400\,000 / 8\,000\,000\) | **30 %** |
+| **Taux d'effort de R&D** | 640 000 / 8 000 000 | **8 %** |
+| **Part de chiffre d'affaires innovant** | 2 400 000 / 8 000 000 | **30 %** |
 
 > [!TIP]
 > Un fort taux d'effort ne garantit **pas** l'innovation : on mesure aussi ce que **rapporte** la R&D.
