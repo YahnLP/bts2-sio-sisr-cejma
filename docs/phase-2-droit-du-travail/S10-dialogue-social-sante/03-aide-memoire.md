@@ -1,6 +1,6 @@
 # Aide-mémoire – Dialogue social, santé et sécurité
 
-*BTS SIO SISR 2e année – CEJMA – S10*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S10*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

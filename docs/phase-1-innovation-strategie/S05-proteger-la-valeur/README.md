@@ -6,7 +6,9 @@
 | **Séance** | S05 (séance 5 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
 | **Parcours** | **Complément** – Protection de la valeur créée (secret, droits, contrats) : aucune séance ne s'appuie sur elle ; les droits de propriété intellectuelle sont vus en 1re année (S16 et S17). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 2 – proposé : protection de l'innovation (à valider) |
+| **Enseignement** | CEJM, avec une part de CEJMA |
+| **Part CEJMA** | protection juridique des productions, secret, responsabilité ; à retrouver en [bloc 3, 2e année, S04](https://yahnlp.github.io/bts2-sio-sisr-bloc3/phase-1-reprendre-cadrer/S04-cadre-juridique-responsabilites/). Voir [CEJM et CEJMA](../../ressources/cejm-et-cejma.md). |
+| **Thème du programme** | Thème 3 – L'organisation de l'activité de l'entreprise (risques) ; thème 4 (droit du numérique) |
 | **Champs** | Droit · Économie |
 | **Prérequis** | S01 ; S16 de la 1re année |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +59,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**. Références juridiques citées de mémoire, **à relire sur Légifrance** (voir le corrigé) : droit d'auteur du logiciel, exclusion du brevet, secret des affaires, clause de non-concurrence.
 
 </details>

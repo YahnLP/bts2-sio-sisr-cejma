@@ -1,6 +1,6 @@
 # Aide-mémoire – L'innovation
 
-*BTS SIO SISR 2e année – CEJMA – S01*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S01*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

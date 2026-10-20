@@ -6,7 +6,8 @@
 | **Séance** | S06 (séance 6 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Contrat de travail : prérequis de S07 à S10. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 5 – proposé : relations de travail (à valider) |
+| **Enseignement** | CEJM |
+| **Thème du programme** | Thème 5 – Les mutations du travail |
 | **Champs** | Droit |
 | **Prérequis** | S04 de la 1re année |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +58,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**, chiffres recalculés. Règles du droit du travail citées de mémoire : **à relire sur Légifrance** (références dans le corrigé).
 
 </details>

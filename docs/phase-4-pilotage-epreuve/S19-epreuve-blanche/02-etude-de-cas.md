@@ -1,6 +1,6 @@
 # Épreuve blanche E4 – Sujet
 
-*BTS SIO SISR 2e année – CEJMA – S19 – individuel – 4 heures – 100 points*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S19 – individuel – 4 heures – 100 points*
 
 > [!WARNING]
 > **Sujet d'entraînement écrit par l'auteur du dépôt, pas un sujet officiel.** L'organisation, les personnes et les chiffres sont **fictifs**. Aucun document n'est autorisé.

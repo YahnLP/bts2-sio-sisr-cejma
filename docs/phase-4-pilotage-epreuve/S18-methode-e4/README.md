@@ -6,7 +6,8 @@
 | **Séance** | S18 (séance 18 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Méthode de l'épreuve E4 : prépare directement l'épreuve. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Méthode E4 |
+| **Enseignement** | CEJM |
+| **Thème du programme** | Méthode de l'épreuve E4 |
 | **Champs** | Tous |
 | **Prérequis** | S01 à S17 |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +58,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Entraînement **fictif**, chiffres recalculés. Réponse juridique volontairement nuancée (contrat non fourni) : à adapter à votre position.
 
 </details>

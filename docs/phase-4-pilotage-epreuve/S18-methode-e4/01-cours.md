@@ -1,6 +1,6 @@
 # Cours – La méthode de l'épreuve E4
 
-*BTS SIO SISR 2e année – CEJMA – S18 – à lire avant l'[entraînement guidé](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S18 – à lire avant l'[entraînement guidé](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** les séances S01 à S17. Cette séance ne contient pas de notion nouvelle : elle apprend à **utiliser** celles que tu connais, en 4 heures.

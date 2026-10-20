@@ -1,6 +1,6 @@
 # Cours – La rupture du contrat de travail
 
-*BTS SIO SISR 2e année – CEJMA – S09 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S09 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** S06 (formes de contrat) ; S08 (faute et procédure disciplinaire).

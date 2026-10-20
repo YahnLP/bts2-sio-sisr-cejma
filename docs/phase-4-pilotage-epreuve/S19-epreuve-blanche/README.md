@@ -6,6 +6,7 @@
 | **Séance** | S19 (séance 19 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Épreuve blanche E4. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
+| **Enseignement** | CEJM |
 | **Thème du programme** | Synthèse des thèmes 1 à 6 |
 | **Champs** | Tous |
 | **Prérequis** | S18 |
@@ -54,7 +55,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Sujet **d'entraînement de l'auteur, non officiel**. Chiffres recalculés par programme. Les règles juridiques du corrigé sont citées de mémoire : **à relire sur Légifrance** avant usage.
 
 </details>

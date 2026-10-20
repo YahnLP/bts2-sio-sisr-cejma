@@ -1,6 +1,6 @@
 # Entraînement guidé – Cobalt Systèmes : un chantier en retard
 
-*BTS SIO SISR 2e année – CEJMA – S18*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S18*
 
 > [!NOTE]
 > **Comment travailler.** Cet entraînement est un **mini-dossier** (moins long qu'un sujet réel). Fais chaque étape **par écrit** avant d'ouvrir la réponse. La question 5 est rédigée **entièrement** : compare avec ta production.

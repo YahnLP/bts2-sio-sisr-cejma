@@ -6,7 +6,9 @@
 | **Séance** | S16 (séance 16 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Pilotage de la performance : prérequis de S17. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Synthèse des thèmes (à valider) |
+| **Enseignement** | CEJM, avec une part de CEJMA |
+| **Part CEJMA** | indicateurs, qualité de service, niveaux de service ; à retrouver en [bloc 2, 2e année, S04](https://yahnlp.github.io/bts2-sio-sisr-bloc2/phase-1-reprendre-concevoir/S04-qualite-de-service/), [bloc 2, 2e année, S14](https://yahnlp.github.io/bts2-sio-sisr-bloc2/phase-3-exploiter-superviser/S14-service-sous-contrat/). Voir [CEJM et CEJMA](../../ressources/cejm-et-cejma.md). |
+| **Thème du programme** | Thème 1 – L'intégration de l'entreprise dans son environnement (indicateurs de performance) |
 | **Champs** | Gestion · Management |
 | **Prérequis** | S03 ; S10 de la 1re année |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +59,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**, chiffres recalculés. Définitions comptables simplifiées : à confronter au référentiel de gestion de la 1re année.
 
 </details>

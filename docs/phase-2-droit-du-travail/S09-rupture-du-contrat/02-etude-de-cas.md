@@ -1,6 +1,6 @@
 # Étude de cas – Delta Maintenance : quatre départs
 
-*BTS SIO SISR 2e année – CEJMA – S09*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S09*
 
 > [!NOTE]
 > **Comment travailler.** Lis le dossier, puis réponds **par écrit** à chaque question : règle, application au dossier (cite le document), conclusion. Ouvre ensuite « Voir la réponse attendue » pour te corriger.

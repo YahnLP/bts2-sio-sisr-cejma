@@ -1,6 +1,6 @@
 # Cas réel – Free Mobile : l'arrivée d'un nouvel entrant en 2012
 
-*BTS SIO SISR 2e année – CEJMA – S02*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S02*
 
 > [!NOTE]
 > **Comment travailler.** Lis le cas réel et ses sources, réponds par écrit aux questions, puis ouvre « Voir la réponse attendue ». Les faits viennent des sources citées en fin de page ; en cas de doute, **retourne à la source**. Ce cas complète l'étude de cas fictive de la séance.

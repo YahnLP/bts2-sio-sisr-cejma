@@ -1,6 +1,6 @@
 # Cours – Dialogue social, santé et sécurité au travail
 
-*BTS SIO SISR 2e année – CEJMA – S10 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S10 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** S06 à S09 ; la responsabilité de l'employeur (1re année, S07).

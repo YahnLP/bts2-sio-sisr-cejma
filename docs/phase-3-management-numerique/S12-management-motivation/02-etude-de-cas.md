@@ -1,6 +1,6 @@
 # Étude de cas – Phare Conseil : des équipes qui partent
 
-*BTS SIO SISR 2e année – CEJMA – S12*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S12*
 
 > [!NOTE]
 > **Comment travailler.** Lis le dossier, puis réponds **par écrit** à chaque question : notion, application au dossier (cite le document), conclusion. Ouvre ensuite « Voir la réponse attendue » pour te corriger.

@@ -1,6 +1,6 @@
 # Cours – Conduire un projet
 
-*BTS SIO SISR 2e année – CEJMA – S13 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S13 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** les structures et le mode projet (S11) ; l'organisation d'une équipe (S12).

@@ -1,6 +1,6 @@
 # Aide-mémoire – Pilotage et indicateurs
 
-*BTS SIO SISR 2e année – CEJMA – S16*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S16*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

@@ -6,7 +6,8 @@
 | **Séance** | S04 (séance 4 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Croissance, partenariats et financement : seule séance sur ces points. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 2 – proposé : croissance (à valider) |
+| **Enseignement** | CEJM |
+| **Thème du programme** | Thème 6 – Les choix stratégiques de l'entreprise ; thème 3 (financement) |
 | **Champs** | Économie · Gestion |
 | **Prérequis** | S03 ; S10 de la 1re année |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +58,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**, chiffres recalculés. Le délai de récupération est présenté avec ses limites ; pas d'actualisation à ce niveau.
 
 </details>

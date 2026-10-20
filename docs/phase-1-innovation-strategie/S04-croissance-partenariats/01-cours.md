@@ -1,6 +1,6 @@
 # Cours – Croissance, partenariats et financement du développement
 
-*BTS SIO SISR 2e année – CEJMA – S04 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S04 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** S03 ; le financement de l'entreprise (1re année, S10) ; S01 (sources de financement).

@@ -1,6 +1,6 @@
 # Aide-mémoire – Protéger la valeur créée
 
-*BTS SIO SISR 2e année – CEJMA – S05*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S05*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

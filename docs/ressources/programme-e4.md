@@ -29,15 +29,13 @@ Elle prend appui sur un **dossier** comprenant :
 
 Le programme est organisé en **thèmes**, répartis sur les deux années du BTS. La 1re année (site dédié) a couvert les thèmes 1, 3 et 4 et des éléments des thèmes 2 et 5. Cette **2e année** reprend et approfondit :
 
-| Phase | Séances | Contenu | Rattachement (proposé) |
+| Phase | Séances | Contenu | Rattachement au programme |
 |---|---|---|---|
-| 1 | S01 à S05 | Innovation, stratégie, modèle économique, croissance, protection de la valeur | Thème 2 |
+| 1 | S01 à S05 | Innovation, stratégie, modèle économique, croissance, protection de la valeur | Thème 6 (S01 à S04), thème 3 (S05) |
 | 2 | S06 à S10 | Contrat de travail, exécution, pouvoir de l'employeur, rupture, dialogue social, santé et sécurité | Thème 5 |
-| 3 | S11 à S15 | Structures, management, projets, changement, responsabilité sociétale | Thème 6 |
-| 4 | S16 à S19 | Pilotage, diagnostic et décision, méthode E4, épreuve blanche | Synthèse |
+| 3 | S11 à S15 | Structures, management, projets, changement, responsabilité sociétale | Thème 3 (S11 à S13), thème 4 (S14), thème 1 (S15) |
+| 4 | S16 à S19 | Pilotage, diagnostic et décision, méthode E4, épreuve blanche | Thème 1 (S16), thème 6 (S17), synthèse (S18, S19) |
 
-> [!WARNING]
-> **Cette répartition est proposée par l'enseignant.** Les intitulés des thèmes 2, 5 et 6 sont reconstitués à partir du site de la 1re année et doivent être confrontés à l'**annexe I** du texte officiel (programme détaillé), que ce site ne reproduit pas et que son auteur n'a pas relue.
 
 ## Méthode de réponse
 

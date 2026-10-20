@@ -1,6 +1,6 @@
 # Aide-mémoire – Pouvoir de l'employeur et discipline
 
-*BTS SIO SISR 2e année – CEJMA – S08*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S08*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

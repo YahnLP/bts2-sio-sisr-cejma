@@ -3,7 +3,7 @@
 Les 19 séances de 4 h représentent **76 h** par an. Le volume prévu pour la culture économique, juridique et managériale en deuxième année dans la grille sous statut scolaire est de **96 h** (annexe III.A du référentiel), sans compter la culture économique, juridique et managériale appliquée : le parcours en apprentissage en offre environ quatre cinquièmes. Quand le temps manque, ce parcours indique **quelles séances garder en priorité**.
 
 > [!NOTE]
-> Ce classement est une **proposition de l'auteur, à valider** par l'équipe pédagogique. Il ne retire rien du site : chaque séance reste disponible, et son statut est rappelé dans sa fiche. Le rattachement des séances aux thèmes du programme est lui-même proposé et à valider.
+> Il ne retire rien du site : chaque séance reste disponible, et son statut est rappelé dans sa fiche.
 
 ## Pourquoi un seul complément
 

@@ -6,7 +6,9 @@
 | **Séance** | S08 (séance 8 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Pouvoir de l'employeur et discipline : prérequis de S09 et S10. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 5 – proposé (à valider) |
+| **Enseignement** | CEJM, avec une part de CEJMA |
+| **Part CEJMA** | charte informatique et pouvoir de l'employeur ; à retrouver en [bloc 3, 2e année, S04](https://yahnlp.github.io/bts2-sio-sisr-bloc3/phase-1-reprendre-cadrer/S04-cadre-juridique-responsabilites/), [bloc 1, 1re année, S12](https://yahnlp.github.io/bts1-sio-sisr-bloc1/phase-3-maintenir-evoluer/S12-licences-et-procedures/). Voir [CEJM et CEJMA](../../ressources/cejm-et-cejma.md). |
+| **Thème du programme** | Thème 5 – Les mutations du travail |
 | **Champs** | Droit · Management |
 | **Prérequis** | S06 ; S11 de la 1re année |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +59,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**. Procédure disciplinaire, prescription et règles sur les fichiers « personnel » citées de mémoire : à relire sur Légifrance (voir le corrigé).
 
 </details>

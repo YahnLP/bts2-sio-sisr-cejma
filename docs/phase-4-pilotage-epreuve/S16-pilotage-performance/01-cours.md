@@ -1,6 +1,6 @@
 # Cours – Piloter la performance : indicateurs et tableaux de bord
 
-*BTS SIO SISR 2e année – CEJMA – S16 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S16 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** la rentabilité et le seuil de rentabilité (S03 de cette année) ; les indicateurs de la 1re année ; le turnover (S12).
