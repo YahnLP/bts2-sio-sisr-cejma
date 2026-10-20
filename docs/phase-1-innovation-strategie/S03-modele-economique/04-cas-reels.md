@@ -32,7 +32,7 @@ Il relie deux **modèles de revenus** du cours (abonnement et publicité) et des
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(236 / 602 \approx 0{,}392\), soit environ **39 %**. Les autres (environ 61 %) utilisent l'offre **gratuite**.
+236 / 602 ≈ 0,392, soit environ **39 %**. Les autres (environ 61 %) utilisent l'offre **gratuite**.
 </details>
 
 **2.** Quelle part du chiffre d'affaires vient de l'abonnement ?
@@ -40,7 +40,7 @@ Il relie deux **modèles de revenus** du cours (abonnement et publicité) et des
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(3\,170 / 3\,671 \approx 0{,}864\), soit environ **86 %**. La **publicité** pèse environ 14 % (\(501 / 3\,671\)).
+3 170 / 3 671 ≈ 0,864, soit environ **86 %**. La **publicité** pèse environ 14 % (501 / 3 671).
 </details>
 
 **3.** Estime le **revenu premium moyen par abonné et par mois** (hypothèse : 236 millions d'abonnés sur le trimestre, soit 3 mois). Pourquoi est-ce **approximatif** ?
@@ -48,7 +48,7 @@ Il relie deux **modèles de revenus** du cours (abonnement et publicité) et des
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(3\,170 / 236 \approx 13{,}43\) € par abonné sur le trimestre, soit \(13{,}43 / 3 \approx 4{,}48\) € par mois. C'est **approximatif** : le nombre d'abonnés a **varié** pendant le trimestre (226 millions au trimestre précédent, 236 à la fin) et les **prix** diffèrent selon les pays et les formules (famille, étudiant). L'entreprise publie son propre indicateur de revenu moyen par utilisateur (non repris ici).
+3 170 / 236 ≈ 13,43 € par abonné sur le trimestre, soit 13,43 / 3 ≈ 4,48 € par mois. C'est **approximatif** : le nombre d'abonnés a **varié** pendant le trimestre (226 millions au trimestre précédent, 236 à la fin) et les **prix** diffèrent selon les pays et les formules (famille, étudiant). L'entreprise publie son propre indicateur de revenu moyen par utilisateur (non repris ici).
 </details>
 
 **4.** Calcule la **marge brute** en euros pour le trimestre. Pourquoi une marge brute de 26,7 % peut-elle coexister avec une **perte d'exploitation** ?
@@ -56,7 +56,7 @@ Il relie deux **modèles de revenus** du cours (abonnement et publicité) et des
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(0{,}267 \times 3\,671 \approx 980\) M€. Une fois cette marge obtenue, il reste à payer les **autres charges** (recherche et développement, marketing, frais généraux) ; si elles **dépassent** la marge brute, le résultat d'exploitation est **négatif**. Ici, il l'est de 75 M€, après **143 M€** de charges liées à des mesures d'efficacité (adjusted operating income de 68 M€).
+0,267 × 3 671 ≈ 980 M€. Une fois cette marge obtenue, il reste à payer les **autres charges** (recherche et développement, marketing, frais généraux) ; si elles **dépassent** la marge brute, le résultat d'exploitation est **négatif**. Ici, il l'est de 75 M€, après **143 M€** de charges liées à des mesures d'efficacité (adjusted operating income de 68 M€).
 </details>
 
 **5.** Pourquoi l'entreprise garde-t-elle une offre **gratuite**, qui ne rapporte que de la publicité ?

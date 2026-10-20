@@ -31,7 +31,7 @@ Il illustre la **menace des nouveaux entrants** (une des cinq forces de Porter),
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(19{,}99 - 15{,}99 = 4\) € par mois, soit \(4 \times 12 = 48\) € par an. L'offre **lie** le client à l'autre service de Free : c'est aussi une **stratégie de fidélisation**.
+19,99 - 15,99 = 4 € par mois, soit 4 × 12 = 48 € par an. L'offre **lie** le client à l'autre service de Free : c'est aussi une **stratégie de fidélisation**.
 </details>
 
 **2.** Applique les **cinq forces de Porter** au marché de la téléphonie mobile en 2012 : laquelle change le plus avec l'arrivée de Free ? Justifie.

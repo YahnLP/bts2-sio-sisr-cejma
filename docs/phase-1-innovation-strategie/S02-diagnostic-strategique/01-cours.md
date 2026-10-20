@@ -117,9 +117,9 @@ Marché : +10 %. Entreprise : (4,2 − 4) ÷ 4 = **+5 %**. Elle croît **moins v
 
 Marché local des services informatiques : **24 000 000 €** ; chiffre d'affaires de l'entreprise : **1 200 000 €**.
 
-\[ \text{part de marché} = \frac{1\,200\,000}{24\,000\,000} = 5\ \% \]
+part de marché = 1 200 000 / 24 000 000 = 5 %
 
-La **part de marché relative** compare à celle du leader : si le leader détient 20 %, l'entreprise est à \(5 / 20 = 0{,}25\), soit **un quart** de sa taille.
+La **part de marché relative** compare à celle du leader : si le leader détient 20 %, l'entreprise est à 5 / 20 = 0,25, soit **un quart** de sa taille.
 
 Un cas réel d'arrivée d'un nouvel entrant est détaillé dans [Free Mobile](04-cas-reels.md).
 

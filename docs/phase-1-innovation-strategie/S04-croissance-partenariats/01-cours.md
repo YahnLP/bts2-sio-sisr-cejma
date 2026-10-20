@@ -80,7 +80,7 @@ L'investissement est **plus élevé et plus difficile à défaire** ; il faut **
 
 Un investissement de **60 000 €** rapporte **20 000 € par an** de flux nets.
 
-\[ \text{délai de récupération} = \frac{60\,000}{20\,000} = 3\ \text{ans} \]
+délai de récupération = 60 000 / 20 000 = 3 ans
 
 | Option | Investissement | Flux annuels | Délai |
 |---|---:|---:|---:|
