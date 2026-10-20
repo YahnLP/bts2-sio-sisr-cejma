@@ -86,6 +86,38 @@ Le salarié a droit au **respect de sa vie privée**, même au travail. L'employ
 **Non** en principe : plus de **2 mois** se sont écoulés depuis la connaissance des faits (du 10 janvier au 10 mars). Les poursuites sont **prescrites**, sauf poursuites pénales engagées dans le délai.
 </details>
 
+## Comprendre pas à pas
+
+### Sanctionner : une grille en cinq questions
+
+1. **Y a-t-il une faute** (un manquement à une obligation) ? Pas de faute : pas de sanction.
+2. **La faute est-elle prescrite ?** Plus de **2 mois** depuis que l'employeur la connaît : les poursuites sont impossibles.
+3. **Quelle gravité ?** Simple, grave ou lourde (voir le tableau du cours).
+4. **La sanction est-elle proportionnée et autorisée** (pas de sanction pécuniaire, pas de double sanction) ?
+5. **La procédure est-elle respectée ?** Convocation, entretien, notification motivée.
+
+### Compter les délais sans se tromper
+
+*Exemple.* L'employeur apprend un fait fautif le **15 mars**.
+
+| Étape | Règle | Conséquence |
+|---|---|---|
+| Prescription | 2 mois à partir du jour de la connaissance | Convocation à engager **avant le 15 mai** |
+| Convocation | Lettre présentée un lundi | **5 jours ouvrables** sans compter le jour de présentation : mardi, mercredi, jeudi, vendredi, samedi |
+| Entretien | Au plus tôt **le lundi suivant** (sans jour férié) | |
+| Notification | Au moins 2 jours ouvrables après l'entretien : mardi, mercredi | Lettre au plus tôt **le jeudi**, et au plus tard **1 mois** après l'entretien |
+
+> [!WARNING]
+> Les jours fériés chômés ne sont pas des jours ouvrables : ils **allongent** les délais. Vérifie toujours le calendrier réel.
+
+### Contrôler le numérique : un test en trois temps
+
+1. **Le salarié a-t-il été informé** du contrôle (charte informatique) ?
+2. **Le contrôle est-il justifié et proportionné** à son but ?
+3. **Le fichier est-il identifié comme personnel ?** Oui → ouverture en **présence du salarié** (sauf risque ou événement particulier).
+
+Une décision de la Cour de cassation sur un message posté en ligne montre où passe la limite : [groupe Facebook privé](04-cas-reels.md).
+
 ## À retenir
 
 - Trois pouvoirs : **direction**, **règlementaire** (règlement intérieur dès **50 salariés**), **disciplinaire**.

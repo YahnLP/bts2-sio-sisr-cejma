@@ -30,6 +30,7 @@
 | [Cours](01-cours.md) | Notions de la séance |
 | [Étude de cas](02-etude-de-cas.md) | Dossier fictif « Optima Réseaux » et questions |
 | [Aide-mémoire](03-aide-memoire.md) | L'essentiel sur une page |
+| [Cas réel](04-cas-reels.md) | Forfait jours Syntec : arrêt du 24 avril 2013 |
 
 ## Déroulé conseillé (4 h)
 

@@ -79,6 +79,40 @@ Le télétravail ne supprime pas la **durée du travail** ni les **temps de repo
 **5 heures** supplémentaires (40 − 35), toutes majorées à **25 %** (elles sont dans les 8 premières heures supplémentaires).
 </details>
 
+## Comprendre pas à pas
+
+### Calculer la paie d'une semaine avec heures supplémentaires
+
+Méthode : **1.** repérer les heures au-delà de 35 ; **2.** les répartir entre la tranche à **+ 25 %** (36e à 43e heure) et celle à **+ 50 %** (à partir de la 44e) ; **3.** additionner.
+
+*Exemple (taux horaire fictif de 15 €).*
+
+| Durée de la semaine | Heures de base | Heures à + 25 % | Heures à + 50 % | Calcul | Total |
+|---:|---:|---:|---:|---|---:|
+| 43 h | 35 | 8 | 0 | \(35\times15 + 8\times15\times1{,}25\) | **675 €** |
+| 46 h | 35 | 8 | 3 | \(35\times15 + 8\times15\times1{,}25 + 3\times15\times1{,}5\) | **742,50 €** |
+
+> [!NOTE]
+> Un accord collectif peut fixer d'autres taux (au minimum + 10 %). On applique d'abord l'accord s'il existe.
+
+### Lire un bulletin de paie, ligne par ligne *(taux fictifs)*
+
+| Ligne | Calcul | Montant |
+|---|---|---:|
+| Salaire brut | donné | 2 400,00 € |
+| Cotisations salariales (taux fictif 22 %) | \(2\,400 \times 22\,\%\) | − 528,00 € |
+| **Net avant impôt sur le revenu** | \(2\,400 - 528\) | **1 872,00 €** |
+| Prélèvement à la source (taux fictif 7 %) | \(1\,872 \times 7\,\%\) | − 131,04 € |
+| **Net à payer** | \(1\,872 - 131{,}04\) | **1 740,96 €** |
+
+### Congés payés : le calcul de base
+
+2,5 jours ouvrables par mois de travail effectif. Pour **8 mois** : \(2{,}5 \times 8 = 20\) jours ouvrables.
+
+### Forfait jours : un cas réel
+
+Pourquoi un forfait en jours peut-il être annulé, et avec quelles conséquences ? Voir [le forfait jours Syntec](04-cas-reels.md).
+
 ## À retenir
 
 - **35 h** légales ; maximum **10 h** par jour et **48 h** par semaine ; repos de **11 h** entre deux journées.

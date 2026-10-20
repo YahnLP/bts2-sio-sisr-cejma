@@ -30,6 +30,7 @@
 | [Cours](01-cours.md) | Notions de la séance |
 | [Étude de cas](02-etude-de-cas.md) | Dossier fictif « Serval Systèmes » et questions |
 | [Aide-mémoire](03-aide-memoire.md) | L'essentiel sur une page |
+| [Cas réel](04-cas-reels.md) | Groupe Facebook privé et licenciement pour faute grave (2018) |
 
 ## Déroulé conseillé (4 h)
 
