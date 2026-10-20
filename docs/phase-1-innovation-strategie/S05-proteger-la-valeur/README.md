@@ -30,6 +30,7 @@
 | [Cours](01-cours.md) | Notions de la séance |
 | [Étude de cas](02-etude-de-cas.md) | Dossier fictif « Atelier Pixel » et questions |
 | [Aide-mémoire](03-aide-memoire.md) | L'essentiel sur une page |
+| [Cas réels](04-cas-reels.md) | Waymo contre Uber et arrêts de 2002 sur la non-concurrence |
 
 ## Déroulé conseillé (4 h)
 

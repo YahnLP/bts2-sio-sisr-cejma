@@ -68,6 +68,33 @@ Une ESN envisage de racheter une petite concurrente pour **1 000 000 €**. Les 
 L'investissement est **plus élevé et plus difficile à défaire** ; il faut **intégrer** une autre organisation ; les flux espérés dépendent de personnes clés qui peuvent partir. Le recrutement est plus progressif et réversible.
 </details>
 
+## Comprendre pas à pas
+
+### Choisir une forme de croissance : trois questions
+
+1. **A-t-on le temps ?** Si non, la croissance **externe** ou **conjointe** va plus vite.
+2. **A-t-on les moyens ?** Un rachat mobilise de l'argent ou des titres.
+3. **Peut-on garder le contrôle et la culture ?** Une alliance partage, un rachat **intègre**.
+
+### Évaluer un investissement : le délai de récupération
+
+Un investissement de **60 000 €** rapporte **20 000 € par an** de flux nets.
+
+\[ \text{délai de récupération} = \frac{60\,000}{20\,000} = 3\ \text{ans} \]
+
+| Option | Investissement | Flux annuels | Délai |
+|---|---:|---:|---:|
+| **A** | 60 000 € | 20 000 € | **3 ans** |
+| **B** | 90 000 € | 25 000 € | **3,6 ans** |
+
+L'option **A** récupère plus vite. **Mais** le délai ne dit rien de ce qui se passe **après** : une option plus lente peut rapporter davantage à long terme.
+
+### Rachat : un contrôle avant d'acheter
+
+Avant une acquisition, on réalise un **audit d'acquisition** (*due diligence*) : **comptes**, **contrats clients**, **propriété intellectuelle**, **litiges**, **dépendance** à quelques personnes clés. L'objectif : savoir **ce qu'on achète vraiment**.
+
+Un cas réel de croissance externe est détaillé dans [Microsoft et GitHub](04-cas-reels.md).
+
 ## À retenir
 
 - Croissance **interne**, **externe** (acquisition, fusion, participation), **conjointe** (alliance, joint-venture, franchise).
