@@ -86,10 +86,10 @@ Un chiffre sur l'impact du numérique est utilisable seulement avec :
 
 | Calcul | Exemple | Résultat |
 |---|---|---:|
-| **PUE** = énergie totale ÷ énergie des équipements informatiques | \(150/100\) | **1,5** |
-| **PUE** après amélioration du refroidissement | \(125/100\) | **1,25** |
-| **Coût annuel** = prix ÷ durée d'utilisation | \(900/4\) | **225 €** |
-| **Coût annuel** avec 6 ans d'usage | \(900/6\) | **150 €** |
+| **PUE** = énergie totale ÷ énergie des équipements informatiques | 150/100 | **1,5** |
+| **PUE** après amélioration du refroidissement | 125/100 | **1,25** |
+| **Coût annuel** = prix ÷ durée d'utilisation | 900/4 | **225 €** |
+| **Coût annuel** avec 6 ans d'usage | 900/6 | **150 €** |
 
 ### Choisir un levier : où se trouve l'impact ?
 

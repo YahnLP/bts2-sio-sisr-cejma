@@ -41,7 +41,7 @@ Il montre que l'**impact du numérique** vient surtout de la **fabrication** et 
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(17{,}2 / 0{,}025 = 688\) Mt CO2eq, soit **environ 690 Mt**. C'est un **ordre de grandeur** : le pourcentage est arrondi.
+17,2 / 0,025 = 688 Mt CO2eq, soit **environ 690 Mt**. C'est un **ordre de grandeur** : le pourcentage est arrondi.
 </details>
 
 **2.** Calcule les émissions des terminaux, des centres de données et des réseaux en 2020.
@@ -49,7 +49,7 @@ Il montre que l'**impact du numérique** vient surtout de la **fabrication** et 
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-Terminaux : \(0{,}79 \times 17{,}2 \approx 13{,}6\) Mt ; centres de données : \(0{,}16 \times 17{,}2 \approx 2{,}8\) Mt ; réseaux : \(0{,}05 \times 17{,}2 \approx 0{,}9\) Mt. Total \(\approx 17{,}2\) Mt.
+Terminaux : 0,79 × 17,2 ≈ 13,6 Mt ; centres de données : 0,16 × 17,2 ≈ 2,8 Mt ; réseaux : 0,05 × 17,2 ≈ 0,9 Mt. Total ≈ 17,2 Mt.
 </details>
 
 **3.** Quels leviers du cours agissent sur la plus grosse part de l'impact ? Pourquoi ?
@@ -60,12 +60,12 @@ Terminaux : \(0{,}79 \times 17{,}2 \approx 13{,}6\) Mt ; centres de données : \
 La **fabrication** (78 %) et les **terminaux** (79 %) : **allonger la durée de vie**, **réemploi** et reconditionné, **achats responsables** (réparabilité) et **sobriété** (acheter moins). Agir seulement sur l'hébergement ou l'éco-conception traiterait une part moindre.
 </details>
 
-**4.** Vérifie les projections : \(17{,}2 \times 1{,}45 = ?\) et \(17{,}2 \times 3 = ?\). Sont-elles cohérentes avec la source ?
+**4.** Vérifie les projections : 17,2 × 1,45 = ? et 17,2 × 3 = ?. Sont-elles cohérentes avec la source ?
 
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(17{,}2 \times 1{,}45 \approx 24{,}9\) Mt : cohérent avec « environ 25 Mt ». \(17{,}2 \times 3 = 51{,}6\) Mt : la source indique « plus de 49 Mt, environ × 3 » : le « × 3 » est **approximatif** (49/17,2 ≈ 2,85).
+17,2 × 1,45 ≈ 24,9 Mt : cohérent avec « environ 25 Mt ». 17,2 × 3 = 51,6 Mt : la source indique « plus de 49 Mt, environ × 3 » : le « × 3 » est **approximatif** (49/17,2 ≈ 2,85).
 </details>
 
 **5.** Un parc de 200 ordinateurs portables à 900 € l'unité est renouvelé tous les 4 ans. Que change un renouvellement tous les 6 ans (coût et empreinte) ?
@@ -73,7 +73,7 @@ La **fabrication** (78 %) et les **terminaux** (79 %) : **allonger la durée de 
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-Coût annuel par poste : \(900/4 = 225\) € contre \(900/6 = 150\) €, soit **75 €** de moins par poste et \(75 \times 200 = 15\,000\) € par an pour le parc (exemple fictif). Comme la **fabrication** pèse l'essentiel de l'empreinte, allonger la durée de vie réduit aussi les émissions annuelles, sous réserve que les postes restent **utilisables et sécurisés**.
+Coût annuel par poste : 900/4 = 225 € contre 900/6 = 150 €, soit **75 €** de moins par poste et 75 × 200 = 15 000 € par an pour le parc (exemple fictif). Comme la **fabrication** pèse l'essentiel de l'empreinte, allonger la durée de vie réduit aussi les émissions annuelles, sous réserve que les postes restent **utilisables et sécurisés**.
 </details>
 
 ## Sources

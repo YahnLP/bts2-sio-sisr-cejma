@@ -70,9 +70,9 @@ La **décristallisation** : on n'a pas fait comprendre la nécessité du changem
 
 *Exemple (fictif).* Un nouvel outil de supervision vise 120 utilisateurs ; 78 l'utilisent chaque semaine.
 
-\(\text{taux d'adoption} = 78 / 120 = 65\,\%\).
+taux d'adoption = 78 / 120 = 65 %.
 
-Si l'objectif à un mois est de 90 %, il reste \(0{,}9 \times 120 - 78 = 30\) utilisateurs à convaincre.
+Si l'objectif à un mois est de 90 %, il reste 0,9 × 120 - 78 = 30 utilisateurs à convaincre.
 
 ### Appliquer Lewin à un cas
 

@@ -36,12 +36,12 @@ Il montre une organisation **agile** appliquée à une grande entreprise (S11, p
 Dans un squad, l'**ajustement mutuel** domine (échanges quotidiens). Entre squads, il faut encore de la **standardisation** (procédés, résultats), et la **supervision** se fait au niveau des tribes et de la direction. Le texte parle de « revues trimestrielles » par tribe (*quarterly business review*), signe d'une coordination par les **résultats**.
 </details>
 
-**2.** Les chiffres sont-ils cohérents ? Calcule \(350 \times 9\) et compare aux 3 500 et 2 500 personnes cités.
+**2.** Les chiffres sont-ils cohérents ? Calcule 350 × 9 et compare aux 3 500 et 2 500 personnes cités.
 
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(350 \times 9 = 3\,150\). Ce total est **inférieur** aux 3 500 du périmètre initial et **supérieur** aux 2 500 salariés de l'entretien. Les chiffres datent probablement de **moments différents** (conception, puis situation en 2016) ; la source ne le précise pas. Réflexe à garder : **comparer les chiffres entre eux** et signaler les écarts.
+350 × 9 = 3 150. Ce total est **inférieur** aux 3 500 du périmètre initial et **supérieur** aux 2 500 salariés de l'entretien. Les chiffres datent probablement de **moments différents** (conception, puis situation en 2016) ; la source ne le précise pas. Réflexe à garder : **comparer les chiffres entre eux** et signaler les écarts.
 </details>
 
 **3.** Quelle est l'**amplitude** de l'accélération des mises en production ?
@@ -49,7 +49,7 @@ Dans un squad, l'**ajustement mutuel** domine (échanges quotidiens). Entre squa
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-Toutes les 2 à 3 semaines, soit \(52/3 \approx 17\) à \(52/2 = 26\) mises en production par an, contre 5 ou 6. Cela représente entre **environ 3 fois** (17 contre 6) et **environ 5 fois** (26 contre 5) plus de livraisons.
+Toutes les 2 à 3 semaines, soit 52/3 ≈ 17 à 52/2 = 26 mises en production par an, contre 5 ou 6. Cela représente entre **environ 3 fois** (17 contre 6) et **environ 5 fois** (26 contre 5) plus de livraisons.
 </details>
 
 **4.** Pourquoi laisser les fonctions juridique, finance et risques **en dehors** des squads ?

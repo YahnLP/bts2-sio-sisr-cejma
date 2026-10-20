@@ -25,12 +25,12 @@ Il relie les **styles de management** et la **motivation** (S12) à une étude d
 
 ## Questions
 
-**1.** Vérifie les chiffres : \(115 + 65 = ?\) Que représente chaque catégorie en pourcentage ?
+**1.** Vérifie les chiffres : 115 + 65 = ? Que représente chaque catégorie en pourcentage ?
 
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(115 + 65 = 180\). Ingénierie : \(115/180 \approx 63{,}9\,\%\) ; ventes : \(65/180 \approx 36{,}1\,\%\).
+115 + 65 = 180. Ingénierie : 115/180 ≈ 63,9 % ; ventes : 65/180 ≈ 36,1 %.
 </details>
 
 **2.** Associe chaque dynamique à une notion du cours (Herzberg, McGregor, Maslow).

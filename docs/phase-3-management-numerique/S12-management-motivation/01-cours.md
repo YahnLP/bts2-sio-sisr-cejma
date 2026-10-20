@@ -79,10 +79,10 @@ Le **télétravail** peut renforcer l'autonomie mais demande des règles (accord
 
 | Indicateur | Calcul | Résultat |
 |---|---|---:|
-| **Effectif moyen** | \((40 + 36)/2\) | **38** |
-| **Turnover (départs seuls)** | \(6/38\) | **15,8 %** |
-| **Turnover (moyenne des départs et des arrivées)** | \(\tfrac{6+2}{2} / 38\) | **10,5 %** |
-| **Absentéisme** | \(132 / (12 \times 220)\) | **5 %** |
+| **Effectif moyen** | (40 + 36)/2 | **38** |
+| **Turnover (départs seuls)** | 6/38 | **15,8 %** |
+| **Turnover (moyenne des départs et des arrivées)** | 6+2 / 2 / 38 | **10,5 %** |
+| **Absentéisme** | 132 / (12 × 220) | **5 %** |
 
 > [!TIP]
 > Les deux turnover sont **corrects** : ils ne répondent pas à la même question. On annonce toujours la **formule employée**.

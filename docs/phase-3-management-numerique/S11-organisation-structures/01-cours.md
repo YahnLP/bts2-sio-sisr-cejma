@@ -82,8 +82,8 @@ Plus un responsable encadre de personnes directement, **moins la structure a bes
 
 | Étendue du contrôle | Niveaux sous la direction | Calcul |
 |---:|---:|---|
-| 3 personnes par responsable | **4** | \(3 + 9 + 27 + 81\) (soit 120 postes de tous niveaux) |
-| 9 personnes par responsable | **2** | \(9 + 81\) (soit 90 postes) |
+| 3 personnes par responsable | **4** | 3 + 9 + 27 + 81 (soit 120 postes de tous niveaux) |
+| 9 personnes par responsable | **2** | 9 + 81 (soit 90 postes) |
 
 > [!NOTE]
 > Une étendue large aplatit la structure (moins de relais, décisions plus rapides) mais demande des équipes **autonomes** : c'est l'idée des équipes agiles.

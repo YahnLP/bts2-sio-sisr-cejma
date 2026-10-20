@@ -40,15 +40,15 @@ De mai 2007 à mars 2014 : **6 ans et 10 mois**, soit 82 mois.
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(290 - 230 = 60\) M€ de dépenses de personnel, soit environ \(60/290 \approx 21\,\%\) du total. Économie visée : \(190\,000\,000 / 3\,800 = 50\,000\) € par poste et par an, en supposant que **toute** l'économie vienne de la suppression des postes (**ordre de grandeur**).
+290 - 230 = 60 M€ de dépenses de personnel, soit environ 60/290 ≈ 21 % du total. Économie visée : 190 000 000 / 3 800 = 50 000 € par poste et par an, en supposant que **toute** l'économie vienne de la suppression des postes (**ordre de grandeur**).
 </details>
 
-**3.** Vérifie le calcul du ministère : \(60 \times 10 = ?\). Que représentent ces 600 M€ ?
+**3.** Vérifie le calcul du ministère : 60 × 10 = ?. Que représentent ces 600 M€ ?
 
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(60 \times 10 = 600\) M€ : ce qu'il aurait fallu **encore dépenser** pour aboutir, présenté comme une **économie** en cas d'arrêt. Elle ne compte pas la **valeur** des bénéfices attendus (190 M€ par an) : c'est à comparer.
+60 × 10 = 600 M€ : ce qu'il aurait fallu **encore dépenser** pour aboutir, présenté comme une **économie** en cas d'arrêt. Elle ne compte pas la **valeur** des bénéfices attendus (190 M€ par an) : c'est à comparer.
 </details>
 
 **4.** Les 230 M€ déjà dépensés doivent-ils conduire à **poursuivre** le projet ? Argumente.

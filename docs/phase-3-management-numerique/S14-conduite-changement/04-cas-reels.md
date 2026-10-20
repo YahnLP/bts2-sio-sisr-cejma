@@ -31,7 +31,7 @@ Il illustre une **transformation numérique** pilotée par le **coût** et la **
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-Cinq ans à 10 000 postes : 50 000, plus les 7 000 déjà déployés, soit **57 000** postes, soit \(57\,000 / 85\,000 \approx 67\,\%\). L'objectif de 90 % correspond à \(0{,}9 \times 85\,000 = 76\,500\) postes, soit environ **7,65 ans** à ce rythme. Le rythme annoncé **ne suffit donc pas** : il aurait fallu l'accélérer, ou l'objectif a été formulé autrement. La source ne l'explique pas : **chercher une source plus récente**.
+Cinq ans à 10 000 postes : 50 000, plus les 7 000 déjà déployés, soit **57 000** postes, soit 57 000 / 85 000 ≈ 67 %. L'objectif de 90 % correspond à 0,9 × 85 000 = 76 500 postes, soit environ **7,65 ans** à ce rythme. Le rythme annoncé **ne suffit donc pas** : il aurait fallu l'accélérer, ou l'objectif a été formulé autrement. La source ne l'explique pas : **chercher une source plus récente**.
 </details>
 
 **2.** Calcule l'économie annuelle par poste si les 2 M€ sont rapportés à l'ensemble du parc. Quelle précaution prendre ?
@@ -39,7 +39,7 @@ Cinq ans à 10 000 postes : 50 000, plus les 7 000 déjà déployés, soit **57 
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(2\,000\,000 / 85\,000 \approx 23{,}5\) € par poste et par an. C'est une **hypothèse** : l'économie citée porte sur le coût de licences « et frais associés », et seule une partie du parc était migrée en 2010. Autre limite : l'article est publié par l'**éditeur d'Ubuntu**.
+2 000 000 / 85 000 ≈ 23,5 € par poste et par an. C'est une **hypothèse** : l'économie citée porte sur le coût de licences « et frais associés », et seule une partie du parc était migrée en 2010. Autre limite : l'article est publié par l'**éditeur d'Ubuntu**.
 </details>
 
 **3.** Associe ce cas aux étapes de Kotter : lesquelles apparaissent dans l'article, lesquelles manquent ?
