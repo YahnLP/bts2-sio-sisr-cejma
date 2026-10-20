@@ -53,7 +53,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <summary>Notes pour l'enseignant</summary>
 
 - **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - Sujet **d'entraînement de l'auteur, non officiel**. Chiffres recalculés par programme. Les règles juridiques du corrigé sont citées de mémoire : **à relire sur Légifrance** avant usage.
 
 </details>
