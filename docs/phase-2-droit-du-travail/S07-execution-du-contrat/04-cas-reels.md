@@ -48,9 +48,9 @@ Parce qu'elles **n'assurent pas** que la durée et la charge de travail restent 
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-Heures supplémentaires : \(40 - 35 = 5\), toutes dans les 8 premières, donc majorées de **25 %**.
+Heures supplémentaires : 40 - 35 = 5, toutes dans les 8 premières, donc majorées de **25 %**.
 
-\(5 \times 20 \times 1{,}25 = 125\) € pour la semaine. C'est un calcul **pédagogique** : le taux horaire d'un forfait jours se détermine selon les règles applicables, et la réalité est plus complexe (preuve des heures, prescription, convention).
+5 × 20 × 1,25 = 125 € pour la semaine. C'est un calcul **pédagogique** : le taux horaire d'un forfait jours se détermine selon les règles applicables, et la réalité est plus complexe (preuve des heures, prescription, convention).
 </details>
 
 **4.** Un employeur peut-il se contenter de faire signer un forfait jours à tous ses cadres ?

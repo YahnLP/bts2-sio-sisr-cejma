@@ -89,8 +89,8 @@ Méthode : **1.** repérer les heures au-delà de 35 ; **2.** les répartir entr
 
 | Durée de la semaine | Heures de base | Heures à + 25 % | Heures à + 50 % | Calcul | Total |
 |---:|---:|---:|---:|---|---:|
-| 43 h | 35 | 8 | 0 | \(35\times15 + 8\times15\times1{,}25\) | **675 €** |
-| 46 h | 35 | 8 | 3 | \(35\times15 + 8\times15\times1{,}25 + 3\times15\times1{,}5\) | **742,50 €** |
+| 43 h | 35 | 8 | 0 | 35×15 + 8×15×1,25 | **675 €** |
+| 46 h | 35 | 8 | 3 | 35×15 + 8×15×1,25 + 3×15×1,5 | **742,50 €** |
 
 > [!NOTE]
 > Un accord collectif peut fixer d'autres taux (au minimum + 10 %). On applique d'abord l'accord s'il existe.
@@ -100,14 +100,14 @@ Méthode : **1.** repérer les heures au-delà de 35 ; **2.** les répartir entr
 | Ligne | Calcul | Montant |
 |---|---|---:|
 | Salaire brut | donné | 2 400,00 € |
-| Cotisations salariales (taux fictif 22 %) | \(2\,400 \times 22\,\%\) | − 528,00 € |
-| **Net avant impôt sur le revenu** | \(2\,400 - 528\) | **1 872,00 €** |
-| Prélèvement à la source (taux fictif 7 %) | \(1\,872 \times 7\,\%\) | − 131,04 € |
-| **Net à payer** | \(1\,872 - 131{,}04\) | **1 740,96 €** |
+| Cotisations salariales (taux fictif 22 %) | 2 400 × 22 % | − 528,00 € |
+| **Net avant impôt sur le revenu** | 2 400 - 528 | **1 872,00 €** |
+| Prélèvement à la source (taux fictif 7 %) | 1 872 × 7 % | − 131,04 € |
+| **Net à payer** | 1 872 - 131,04 | **1 740,96 €** |
 
 ### Congés payés : le calcul de base
 
-2,5 jours ouvrables par mois de travail effectif. Pour **8 mois** : \(2{,}5 \times 8 = 20\) jours ouvrables.
+2,5 jours ouvrables par mois de travail effectif. Pour **8 mois** : 2,5 × 8 = 20 jours ouvrables.
 
 ### Forfait jours : un cas réel
 

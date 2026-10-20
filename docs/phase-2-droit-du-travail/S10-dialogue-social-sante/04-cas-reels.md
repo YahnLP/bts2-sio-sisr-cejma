@@ -41,7 +41,7 @@ Le harcèlement moral suppose des agissements **répétés** dégradant les cond
 <details markdown="1">
 <summary>Voir la réponse attendue</summary>
 
-\(22\,000 / 120\,000 \approx 0{,}183\), soit **environ 18 %** des effectifs.
+22 000 / 120 000 ≈ 0,183, soit **environ 18 %** des effectifs.
 </details>
 
 **3.** L'objectif économique d'une réorganisation est-il **illégitime** en soi ? Qu'est-ce qui pose problème selon la décision ?

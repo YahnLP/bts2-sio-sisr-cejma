@@ -108,7 +108,7 @@ Aucun indice n'est décisif seul : le juge apprécie l'**ensemble**. Un cas rée
 
 Un CDD de six mois en remplacement d'un salarié absent verse au total **12 600 €** de rémunération brute. Aucun cas d'exclusion de l'indemnité ne s'applique.
 
-\(12\,600 \times 10\,\% = 1\,260\) € d'**indemnité de fin de contrat** (cas général).
+12 600 × 10 % = 1 260 € d'**indemnité de fin de contrat** (cas général).
 
 > [!TIP]
 > Si l'employeur propose un CDI à la fin du CDD, l'indemnité n'est en principe pas due : vérifie toujours les **exceptions** dans la loi ou la convention applicable.

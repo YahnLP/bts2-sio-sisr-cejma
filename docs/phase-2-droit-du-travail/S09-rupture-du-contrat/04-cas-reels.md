@@ -35,7 +35,7 @@ Il aide à distinguer deux sommes que l'on confond souvent (**indemnité de lice
 
 L'**indemnité légale** est due dans un licenciement **régulier** (sauf faute grave ou lourde) : c'est la **compensation de l'ancienneté**. Les **dommages et intérêts** du barème ne sont dus que si le licenciement est **sans cause réelle et sérieuse**.
 
-\(3\,000 \times \tfrac{1}{4} \times 4{,}5 = 3\,375\) €.
+3 000 × 1 / 4 × 4,5 = 3 375 €.
 </details>
 
 **2.** Un licenciement est jugé sans cause réelle et sérieuse. Le salarié demande une somme supérieure au maximum du barème. Le juge peut-il l'accorder ? Dans quel cas le barème ne s'applique-t-il pas ?

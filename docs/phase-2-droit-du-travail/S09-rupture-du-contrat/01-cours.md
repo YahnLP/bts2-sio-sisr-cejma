@@ -111,11 +111,11 @@ Le **conseil de prud'hommes** est la juridiction qui règle les litiges individu
 
 *Cas 1 – ancienneté de 6 ans et 3 mois.* Salaire moyen des 12 derniers mois : 2 900 € ; des 3 derniers mois : 3 100 €. On retient le plus favorable : **3 100 €**.
 
-\(3\,100 \times \tfrac{1}{4} \times 6{,}25 = 4\,843{,}75\) €.
+3 100 × 1 / 4 × 6,25 = 4 843,75 €.
 
 *Cas 2 – ancienneté de 12 ans, salaire de référence 3 000 €.* Les 10 premières années comptent 1/4 de mois, les 2 suivantes 1/3 de mois :
 
-\(\left(10 \times \tfrac{1}{4} + 2 \times \tfrac{1}{3}\right) \times 3\,000 = (2{,}5 + 0{,}667) \times 3\,000 \approx 9\,500\) €.
+(10 × 1 / 4 + 2 × 1 / 3) × 3 000 = (2,5 + 0,667) × 3 000 ≈ 9 500 €.
 
 ### Calendrier d'une rupture conventionnelle *(exemple)*
 
