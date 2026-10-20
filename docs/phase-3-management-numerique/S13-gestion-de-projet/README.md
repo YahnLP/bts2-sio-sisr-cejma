@@ -14,6 +14,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Comment planifier un projet et tenir coûts, délais et qualité ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** La gestion de projet est aussi vue côté technique en [bloc 1 (2e année), S01 – Cadrer un besoin et lancer un projet](https://yahnlp.github.io/bts2-sio-sisr-bloc1/phase-1-gerer-un-projet/S01-cadrer-un-projet/) à [bloc 1 (2e année), S04 – Suivre un projet avec un outil de gestion de projet](https://yahnlp.github.io/bts2-sio-sisr-bloc1/phase-1-gerer-un-projet/S04-outil-de-gestion-de-projet/). Selon l'ordre de vos séances, la première pose les bases et la seconde les reprend en rappel (15 à 20 minutes). Ici, garder l'angle organisation et management.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :
