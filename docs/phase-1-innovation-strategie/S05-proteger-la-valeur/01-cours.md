@@ -88,6 +88,38 @@ Même sans clause, un salarié ou un ancien salarié qui **détourne** des fichi
 **Non, pas sans accord** : le freelance reste l'auteur, et vous n'avez que les droits que le contrat prévoit. Il faut une **cession écrite et précise** (ou une licence) pour le revendre.
 </details>
 
+## Comprendre pas à pas
+
+### Quel outil pour quelle valeur ?
+
+| Ce qu'on protège | Outil | Condition principale | Limite |
+|---|---|---|---|
+| Un **code source**, un texte, un visuel | **Droit d'auteur** | Création **originale** ; aucune formalité | Protège la **forme**, pas l'**idée** |
+| Une **invention technique** | **Brevet** | Nouveauté, activité inventive, application industrielle ; **dépôt** | Coût, durée limitée, divulgation |
+| Un **signe distinctif** | **Marque** | **Dépôt** ; usage | Spécialité des produits ; renouvellement |
+| Un **savoir-faire**, une méthode, un fichier clients | **Secret des affaires** | Information **secrète**, de **valeur**, **protégée** | Perdue si elle devient publique |
+| La **fidélité** d'un salarié ou d'un partenaire | **Clauses** (confidentialité, non-concurrence) | Rédaction **valide** | Annulation si disproportionnée |
+
+> [!NOTE]
+> Plusieurs protections se **cumulent** : un logiciel peut être protégé par le **droit d'auteur**, ses algorithmes par le **secret**, et son **nom** par une **marque**.
+
+### Le logiciel : à qui appartient-il ?
+
+| Qui a écrit ? | Contexte | Qui a les droits ? |
+|---|---|---|
+| **Un salarié** | Dans ses fonctions | **L'employeur** (droits patrimoniaux) |
+| **Un freelance** | Sans contrat de cession | **Le freelance** reste titulaire ; il faut une **cession écrite et précise** |
+| **Un stagiaire** | Selon la convention et le contrat | À **prévoir par écrit** |
+
+### Exemple guidé : vérifier une clause de non-concurrence
+
+1. **Intérêt légitime ?** Un poste donnant accès à des secrets : oui ; un poste sans accès : douteux.
+2. **Durée et zone raisonnables ?** Quelques mois à deux ans ; une zone proportionnée.
+3. **Adaptée au poste ?** Elle vise les **activités réellement concurrentes**.
+4. **Contrepartie financière ?** Sans elle, la clause est **nulle**.
+
+Deux cas réels sont détaillés dans [Waymo contre Uber et la non-concurrence](04-cas-reels.md).
+
 ## À retenir
 
 - **Droit d'auteur** : automatique, protège le code ; **brevet** : exclut le logiciel « en tant que tel » ; **secret des affaires** : trois conditions dont des **mesures de protection**.

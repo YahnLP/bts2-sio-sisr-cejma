@@ -104,6 +104,39 @@ Une ESN réalise **2 000 000 €** de chiffre d'affaires et consacre **160 000 �
 C'est une **invention** : il manque l'**adoption** par des utilisateurs. Elle deviendra une innovation si elle est mise sur le marché et utilisée.
 </details>
 
+## Comprendre pas à pas
+
+### Invention ou innovation ? Un test en trois questions
+
+1. **Est-ce nouveau ?** Si non, ni l'un ni l'autre.
+2. **Est-ce utilisé ou mis sur le marché ?** Si non : **invention**.
+3. **Cela crée-t-il de la valeur (clients, gains, économies) ?** Si oui : **innovation**.
+
+> [!NOTE]
+> La même **idée** peut rester une invention pour une entreprise et devenir une innovation pour une autre : ce qui compte, c'est l'**adoption**.
+
+### Classer une innovation : une grille
+
+| Question | Réponses possibles |
+|---|---|
+| **Sur quoi porte la nouveauté ?** | Produit, procédé, organisation, commercialisation |
+| **Quelle ampleur ?** | **Incrémentale** (amélioration) ou **de rupture** (change les règles) |
+| **Qui la ressent ?** | Le client, l'entreprise, le marché |
+
+### Exemple chiffré : mesurer l'effort d'innovation
+
+Une entreprise réalise **8 000 000 €** de chiffre d'affaires. Elle consacre **640 000 €** à la recherche et développement. Les produits lancés depuis moins de trois ans rapportent **2 400 000 €**.
+
+| Indicateur | Calcul | Résultat |
+|---|---|---:|
+| **Taux d'effort de R&D** | \(640\,000 / 8\,000\,000\) | **8 %** |
+| **Part de chiffre d'affaires innovant** | \(2\,400\,000 / 8\,000\,000\) | **30 %** |
+
+> [!TIP]
+> Un fort taux d'effort ne garantit **pas** l'innovation : on mesure aussi ce que **rapporte** la R&D.
+
+Un cas réel illustre l'écart entre invention et innovation : [Kodak](04-cas-reels.md).
+
 ## À retenir
 
 - **Innovation = nouveauté adoptée** ; une invention seule ne crée pas de valeur.

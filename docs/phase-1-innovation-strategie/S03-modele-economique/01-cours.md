@@ -90,6 +90,39 @@ Un rapport **LTV ÷ CAC** élevé indique que gagner un client est rentable ; un
 90 000 ÷ 30 = **3 000** unités. En dessous, l'entreprise perd de l'argent.
 </details>
 
+## Comprendre pas à pas
+
+### Seuil de rentabilité : un exemple complet
+
+Un service de supervision vendu **40 € par mois et par client**. Charges **variables** par client : **12 €**. Charges **fixes** : **9 000 € par mois**.
+
+| Étape | Calcul | Résultat |
+|---|---|---:|
+| **Marge sur coûts variables** (MCV) par client | \(40 - 12\) | **28 €** |
+| **Seuil de rentabilité** (en clients) | \(9\,000 / 28\) | **321,4 → 322 clients** |
+
+On arrondit **au-dessus** : 321 clients ne couvrent pas les charges fixes.
+
+### Indicateurs d'abonnement : un exemple
+
+**500 clients**, **40 €** par mois, **4 %** de départs par mois, **CAC** de **200 €**.
+
+| Indicateur | Calcul | Résultat |
+|---|---|---:|
+| **MRR** | \(500 \times 40\) | **20 000 €** |
+| **Durée de vie moyenne** | \(1 / 0{,}04\) | **25 mois** |
+| **LTV** (avec marge de 28 € par mois) | \(28 \times 25\) | **700 €** |
+| **LTV / CAC** | \(700 / 200\) | **3,5** |
+
+> [!TIP]
+> Un **LTV / CAC** supérieur à **3** est souvent cité comme un repère de bonne santé, mais cette valeur est une **convention de métier**, pas une règle.
+
+### Modèle de revenus : qui paie et pour quoi ?
+
+Pour décrire un modèle économique : **segment de clientèle**, **proposition de valeur**, **canaux**, **revenus**, **coûts**. Dans le freemium, **la gratuité sert d'acquisition** et une **minorité paie** pour des fonctions avancées.
+
+Un cas réel est détaillé dans [Spotify](04-cas-reels.md).
+
 ## À retenir
 
 - Le canevas : **segments, proposition de valeur, canaux, relation, revenus, ressources, activités, partenaires, coûts**.

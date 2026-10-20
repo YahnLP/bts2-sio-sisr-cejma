@@ -30,6 +30,7 @@
 | [Cours](01-cours.md) | Notions de la séance |
 | [Étude de cas](02-etude-de-cas.md) | Dossier fictif « Kestrel Data » et questions |
 | [Aide-mémoire](03-aide-memoire.md) | L'essentiel sur une page |
+| [Cas réel](04-cas-reels.md) | Microsoft rachète GitHub : croissance externe (2018) |
 
 ## Déroulé conseillé (4 h)
 

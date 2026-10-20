@@ -93,6 +93,36 @@ Une entreprise qui croît **plus vite que son marché** gagne des parts de march
 Marché : +10 %. Entreprise : (4,2 − 4) ÷ 4 = **+5 %**. Elle croît **moins vite** que son marché : sa part baisse (de 8 % à 7,6 %).
 </details>
 
+## Comprendre pas à pas
+
+### Construire un diagnostic dans l'ordre
+
+1. **Externe** : PESTEL (environnement général), puis **cinq forces de Porter** (secteur).
+2. **Interne** : ressources, compétences, avantage concurrentiel.
+3. **Synthèse** : le **SWOT**, qui met en regard forces, faiblesses (**internes**) et opportunités, menaces (**externes**).
+
+> [!WARNING]
+> Erreur fréquente : classer une **menace externe** (un nouveau concurrent) parmi les **faiblesses**. Pose-toi la question : *dépend-il de l'entreprise (interne) ou de son environnement (externe) ?*
+
+### Exemple guidé : SWOT d'une ESN locale de 25 salariés
+
+| | **Positif** | **Négatif** |
+|---|---|---|
+| **Interne** | **Forces** : équipe certifiée, bonne réputation locale | **Faiblesses** : dépendance à deux gros clients, peu de marketing |
+| **Externe** | **Opportunités** : obligations de cybersécurité des PME | **Menaces** : grands groupes aux prix bas, difficulté à recruter |
+
+À partir du SWOT, on formule des **choix** : par exemple **s'appuyer** sur la certification (force) pour **saisir** l'opportunité cybersécurité, et **réduire** la dépendance aux deux clients (faiblesse).
+
+### Mesurer sa place : part de marché
+
+Marché local des services informatiques : **24 000 000 €** ; chiffre d'affaires de l'entreprise : **1 200 000 €**.
+
+\[ \text{part de marché} = \frac{1\,200\,000}{24\,000\,000} = 5\ \% \]
+
+La **part de marché relative** compare à celle du leader : si le leader détient 20 %, l'entreprise est à \(5 / 20 = 0{,}25\), soit **un quart** de sa taille.
+
+Un cas réel d'arrivée d'un nouvel entrant est détaillé dans [Free Mobile](04-cas-reels.md).
+
 ## À retenir
 
 - Diagnostic **externe** (PESTEL, cinq forces) et **interne** (ressources, compétences, chaîne de valeur).
