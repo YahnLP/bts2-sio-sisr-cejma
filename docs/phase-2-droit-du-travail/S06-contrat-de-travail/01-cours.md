@@ -81,6 +81,38 @@ Le contrat s'applique **avec** des règles collectives : la **loi**, les **conve
 Un **contrat de travail** : le **lien de subordination** existe dans les faits (horaires, matériel, direction). Le nom du contrat ne compte pas.
 </details>
 
+## Comprendre pas à pas
+
+### Comment qualifier une relation de travail : la méthode des indices
+
+On ne regarde pas le titre du document. On cherche, **dans les faits**, qui commande, qui contrôle et qui sanctionne.
+
+| Question | Indice de **salariat** | Indice d'**indépendance** |
+|---|---|---|
+| Qui décide **comment** le travail est fait ? | Le donneur d'ordre impose ses méthodes | Le prestataire choisit ses méthodes |
+| Qui **contrôle** ? | Suivi en temps réel, comptes rendus imposés | Contrôle limité au résultat livré |
+| Qui peut **sanctionner** ? | Pénalités, retrait de missions, désactivation | Seules les règles du contrat commercial s'appliquent |
+| Qui fournit les **moyens** ? | Matériel et locaux du donneur d'ordre | Moyens propres du prestataire |
+| Qui supporte le **risque économique** ? | Le donneur d'ordre | Le prestataire (plusieurs clients, prix libres) |
+
+Aucun indice n'est décisif seul : le juge apprécie l'**ensemble**. Un cas réel illustre cette méthode : [Take Eat Easy](04-cas-reels.md).
+
+### Choisir une forme de contrat : un arbre de décision
+
+1. **Le besoin est-il permanent** (lié à l'activité normale) ? Oui → **CDI**.
+2. **Sinon, existe-t-il un cas de recours prévu par la loi** (remplacement, accroissement temporaire d'activité, emploi saisonnier) ? Oui → **CDD** ou **intérim**. Non → on ne peut pas utiliser un CDD.
+3. **Le poste s'accompagne-t-il d'une formation diplômante ?** Oui → **alternance** (apprentissage ou professionnalisation).
+4. **La durée de travail est-elle inférieure à la durée légale ?** → **temps partiel** (écrit obligatoire).
+
+### Exemple chiffré : la prime de précarité
+
+Un CDD de six mois en remplacement d'un salarié absent verse au total **12 600 €** de rémunération brute. Aucun cas d'exclusion de l'indemnité ne s'applique.
+
+\(12\,600 \times 10\,\% = 1\,260\) € d'**indemnité de fin de contrat** (cas général).
+
+> [!TIP]
+> Si l'employeur propose un CDI à la fin du CDD, l'indemnité n'est en principe pas due : vérifie toujours les **exceptions** dans la loi ou la convention applicable.
+
 ## À retenir
 
 - Contrat de travail = **travail + rémunération + subordination**.

@@ -97,6 +97,38 @@ Le **conseil de prud'hommes** est la juridiction qui règle les litiges individu
 **1 mois** (ancienneté comprise entre 6 mois et 2 ans), sauf convention ou usage plus favorable.
 </details>
 
+## Comprendre pas à pas
+
+### Deux sommes à ne pas confondre
+
+| | **Indemnité légale de licenciement** | **Dommages et intérêts** |
+|---|---|---|
+| **Quand ?** | Licenciement régulier (hors faute grave ou lourde), ≥ 8 mois d'ancienneté | Licenciement **sans cause réelle et sérieuse** |
+| **Pourquoi ?** | Compenser l'**ancienneté** | Réparer le **préjudice** de la perte injustifiée d'emploi |
+| **Calcul** | Formule légale (1/4 puis 1/3 de mois par année) | Entre un **minimum** et un **maximum** du barème |
+
+### Calculer l'indemnité légale, deux cas
+
+*Cas 1 – ancienneté de 6 ans et 3 mois.* Salaire moyen des 12 derniers mois : 2 900 € ; des 3 derniers mois : 3 100 €. On retient le plus favorable : **3 100 €**.
+
+\(3\,100 \times \tfrac{1}{4} \times 6{,}25 = 4\,843{,}75\) €.
+
+*Cas 2 – ancienneté de 12 ans, salaire de référence 3 000 €.* Les 10 premières années comptent 1/4 de mois, les 2 suivantes 1/3 de mois :
+
+\(\left(10 \times \tfrac{1}{4} + 2 \times \tfrac{1}{3}\right) \times 3\,000 = (2{,}5 + 0{,}667) \times 3\,000 \approx 9\,500\) €.
+
+### Calendrier d'une rupture conventionnelle *(exemple)*
+
+| Étape | Date |
+|---|---|
+| Signature de la convention | 2 juin |
+| Délai de rétractation : 15 jours calendaires, à partir du **lendemain** | du 3 au 17 juin |
+| Demande d'homologation | à partir du 18 juin |
+| Homologation : 15 jours ouvrables, silence = accord | Fin du contrat au plus tôt le lendemain |
+
+> [!NOTE]
+> Un cas réel montre comment le juge encadre les dommages et intérêts : [le barème d'indemnisation](04-cas-reels.md).
+
 ## À retenir
 
 - Six modes de rupture ; **pas de licenciement sans cause réelle et sérieuse**.

@@ -90,6 +90,43 @@ Un salarié peut **se retirer** d'une situation de travail dont il a un **motif 
 30 + 10 × 0,5 = **35**. Effectif supérieur à 11 : **CSE obligatoire** (s'il est dépassé pendant 12 mois consécutifs), avec les attributions des entreprises de moins de 50 salariés.
 </details>
 
+## Comprendre pas à pas
+
+### Calculer l'effectif, un pas après l'autre
+
+Méthode : on ramène chaque salarié à un nombre d'**équivalents temps plein**, puis on additionne.
+
+*Exemple.* Une ESN compte 12 CDI à temps plein, 4 CDI à mi-temps et un CDD de 6 mois sur les 12 derniers mois.
+
+| Catégorie | Calcul | Équivalent |
+|---|---|---:|
+| CDI à temps plein | 12 × 1 | 12 |
+| CDI à mi-temps | 4 × 0,5 | 2 |
+| CDD (6 mois sur 12) | 6 / 12 | 0,5 |
+| **Total** | | **14,5** |
+
+Seuil de 11 atteint : si cet effectif est dépassé pendant **12 mois consécutifs**, un **CSE** doit être mis en place. Seuil de 50 non atteint : attributions « de base ».
+
+### Savoir qui peut agir face à un risque
+
+| Situation | Acteur principal | Outil |
+|---|---|---|
+| Danger **grave et imminent** | Le salarié | **Droit de retrait** + alerte à l'employeur |
+| Souffrance au travail dans un service | Le **CSE** | Alerte, consultation (voir le cours) |
+| Harcèlement signalé | L'**employeur** | **Enquête**, mesures de protection, sanction |
+| Manquement persistant | L'**inspection du travail** | Contrôle, observations à l'employeur |
+
+### Du risque à la prévention : un exemple d'entrée du DUERP
+
+| Risque | Gravité (1-4) | Probabilité (1-4) | Cote | Mesure |
+|---|---:|---:|---:|---|
+| Surcharge de travail pendant une migration | 3 | 3 | **9** | Planning réaliste, renfort, point hebdomadaire |
+| Chute de câbles dans la salle serveur | 2 | 2 | **4** | Rangement, signalisation |
+
+*Cote = gravité × probabilité (échelle fictive).*
+
+Un cas réel majeur : [France Télécom et le harcèlement moral institutionnel](04-cas-reels.md).
+
 ## À retenir
 
 - Effectif : temps partiel au **prorata**, CDD au prorata de la **présence**.
