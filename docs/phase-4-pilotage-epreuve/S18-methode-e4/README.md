@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S18 (séance 18 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Méthode de l'épreuve E4 : prépare directement l'épreuve. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Méthode E4 |
 | **Champs** | Tous |
 | **Prérequis** | S01 à S17 |

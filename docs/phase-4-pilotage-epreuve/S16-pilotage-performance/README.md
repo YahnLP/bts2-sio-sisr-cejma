@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S16 (séance 16 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Pilotage de la performance : prérequis de S17. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Synthèse des thèmes (à valider) |
 | **Champs** | Gestion · Management |
 | **Prérequis** | S03 ; S10 de la 1re année |

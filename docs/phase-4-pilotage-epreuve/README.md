@@ -10,11 +10,11 @@
 
 ## Progression
 
-| Séance | Semaine | Thème | Rattachement au programme (proposé) | Statut |
-|---|---|---|---|---|
-| S16 | 16 | [Piloter la performance : indicateurs et tableaux de bord](S16-pilotage-performance/README.md) | Synthèse des thèmes (à valider) | **à valider** |
-| S17 | 17 | [Diagnostic et aide à la décision stratégique](S17-diagnostic-decision/README.md) | Synthèse des thèmes (à valider) | **à valider** |
-| S18 | 18 | [Méthode de l'épreuve E4](S18-methode-e4/README.md) | Méthode E4 | **à valider** |
-| S19 | 19 | [Épreuve blanche E4](S19-epreuve-blanche/README.md) | Synthèse des thèmes 1 à 6 | **à valider** |
+| Séance | Semaine | Thème | Rattachement au programme (proposé) | Parcours | Statut |
+|---|---|---|---|---|---|
+| S16 | 16 | [Piloter la performance : indicateurs et tableaux de bord](S16-pilotage-performance/README.md) | Synthèse des thèmes (à valider) | **Cœur** | **à valider** |
+| S17 | 17 | [Diagnostic et aide à la décision stratégique](S17-diagnostic-decision/README.md) | Synthèse des thèmes (à valider) | **Cœur** | **à valider** |
+| S18 | 18 | [Méthode de l'épreuve E4](S18-methode-e4/README.md) | Méthode E4 | **Cœur** | **à valider** |
+| S19 | 19 | [Épreuve blanche E4](S19-epreuve-blanche/README.md) | Synthèse des thèmes 1 à 6 | **Cœur** | **à valider** |
 
 Les numéros de semaine sont ceux de la séquence (semaine 01 à 19) : ils ne correspondent pas à des dates, les 19 semaines d'alternance étant réparties sur l'année.

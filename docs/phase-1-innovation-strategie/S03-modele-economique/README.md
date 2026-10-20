@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S03 (séance 3 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Modèle économique et seuil de rentabilité : prérequis de S04. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 2 – proposé : création de valeur (à valider) |
 | **Champs** | Économie · Gestion |
 | **Prérequis** | S02 |

@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S05 (séance 5 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Complément** – Protection de la valeur créée (secret, droits, contrats) : aucune séance ne s'appuie sur elle ; les droits de propriété intellectuelle sont vus en 1re année (S16 et S17). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 2 – proposé : protection de l'innovation (à valider) |
 | **Champs** | Droit · Économie |
 | **Prérequis** | S01 ; S16 de la 1re année |

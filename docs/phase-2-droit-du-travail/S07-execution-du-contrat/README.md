@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S07 (séance 7 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Exécution du contrat (temps de travail, rémunération, télétravail) : seule séance sur ces points ; reprise en S10. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 5 – proposé (à valider) |
 | **Champs** | Droit · Gestion |
 | **Prérequis** | S06 |

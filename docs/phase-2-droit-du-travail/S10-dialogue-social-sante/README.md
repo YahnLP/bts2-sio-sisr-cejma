@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S10 (séance 10 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Dialogue social, santé et sécurité : seule séance sur ces points ; reprise en S19. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 5 – proposé (à valider) |
 | **Champs** | Droit · Management |
 | **Prérequis** | S06 à S09 |

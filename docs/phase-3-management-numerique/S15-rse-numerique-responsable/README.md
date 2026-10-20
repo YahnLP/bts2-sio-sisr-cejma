@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S15 (séance 15 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – RSE et numérique responsable : seule séance sur ce point dans cette discipline. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 6 – proposé (à valider) |
 | **Champs** | Management · Droit |
 | **Prérequis** | S03 de la 1re année |

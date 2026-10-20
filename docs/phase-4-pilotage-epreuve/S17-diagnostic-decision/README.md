@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S17 (séance 17 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Diagnostic et aide à la décision : synthèse qui prépare l'épreuve. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Synthèse des thèmes (à valider) |
 | **Champs** | Économie · Droit · Management |
 | **Prérequis** | S02 ; S16 |

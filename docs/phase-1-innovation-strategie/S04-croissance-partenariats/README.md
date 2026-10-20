@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S04 (séance 4 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Croissance, partenariats et financement : seule séance sur ces points. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 2 – proposé : croissance (à valider) |
 | **Champs** | Économie · Gestion |
 | **Prérequis** | S03 ; S10 de la 1re année |
