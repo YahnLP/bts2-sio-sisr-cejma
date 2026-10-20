@@ -64,6 +64,35 @@ Les rôles : **sponsor** (dirigeant qui porte le projet), **chef de projet**, **
 La **décristallisation** : on n'a pas fait comprendre la nécessité du changement avant de le lancer.
 </details>
 
+## Comprendre pas à pas
+
+### Suivre l'adoption : un calcul simple
+
+*Exemple (fictif).* Un nouvel outil de supervision vise 120 utilisateurs ; 78 l'utilisent chaque semaine.
+
+\(\text{taux d'adoption} = 78 / 120 = 65\,\%\).
+
+Si l'objectif à un mois est de 90 %, il reste \(0{,}9 \times 120 - 78 = 30\) utilisateurs à convaincre.
+
+### Appliquer Lewin à un cas
+
+| Temps | Question | Exemple d'action |
+|---|---|---|
+| **Décristalliser** | Les gens comprennent-ils **pourquoi** changer ? | Réunion d'explication, coût actuel, risques |
+| **Changer** | Ont-ils les **moyens** (formation, outils, support) ? | Formation, référents, support renforcé |
+| **Recristalliser** | Les nouvelles pratiques sont-elles **ancrées** ? | Règles mises à jour, anciens outils fermés, suivi |
+
+### Relier résistance et réponse
+
+| Résistance | Réponse du plan |
+|---|---|
+| Peur de perdre son expertise | Montrer l'évolution des métiers, former |
+| Incompréhension | Communiquer le pourquoi, le quoi, le quand |
+| Surcharge | Planifier la formation, alléger la charge |
+| Habitudes | Victoires rapides, démonstrations |
+
+Un exemple de migration à grande échelle, avec ses zones d'ombre : [GendBuntu](04-cas-reels.md).
+
 ## À retenir
 
 - Résistances : peur, incompréhension, surcharge, habitudes.

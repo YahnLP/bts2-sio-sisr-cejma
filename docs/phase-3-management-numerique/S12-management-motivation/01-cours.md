@@ -71,6 +71,33 @@ Le **télétravail** peut renforcer l'autonomie mais demande des règles (accord
 **Herzberg** : le salaire est un facteur d'**hygiène**. Il évite l'insatisfaction mais ne crée pas à lui seul la motivation, qui vient de la reconnaissance, de la responsabilité et du contenu du travail.
 </details>
 
+## Comprendre pas à pas
+
+### Calculer turnover et absentéisme, avec la formule précisée
+
+*Exemple (fictif).* Une équipe d'exploitation a 40 salariés au 1er janvier et 36 au 31 décembre. Sur l'année : 6 départs et 2 arrivées. Les salariés sont censés travailler 220 jours par an ; on compte 132 jours d'absence au total, pour 12 salariés suivis.
+
+| Indicateur | Calcul | Résultat |
+|---|---|---:|
+| **Effectif moyen** | \((40 + 36)/2\) | **38** |
+| **Turnover (départs seuls)** | \(6/38\) | **15,8 %** |
+| **Turnover (moyenne des départs et des arrivées)** | \(\tfrac{6+2}{2} / 38\) | **10,5 %** |
+| **Absentéisme** | \(132 / (12 \times 220)\) | **5 %** |
+
+> [!TIP]
+> Les deux turnover sont **corrects** : ils ne répondent pas à la même question. On annonce toujours la **formule employée**.
+
+### Choisir la bonne grille de lecture
+
+| Situation | Grille utile |
+|---|---|
+| « Notre salaire est bon mais l'ambiance est mauvaise » | **Herzberg** : hygiène ≠ motivation |
+| « Le chef surveille tout, les gens font le minimum » | **McGregor** : management de type théorie X |
+| « Le débutant est perdu, l'expert étouffe » | **Hersey et Blanchard** : style selon la maturité |
+| « Les besoins de sécurité ne sont pas satisfaits » | **Maslow** : base de la pyramide d'abord |
+
+Une étude de terrain sur les équipes : [Project Aristotle](04-cas-reels.md).
+
 ## À retenir
 
 - Style de management **situationnel** : adapté à la maturité.
