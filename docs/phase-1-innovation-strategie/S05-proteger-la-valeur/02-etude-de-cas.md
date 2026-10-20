@@ -1,6 +1,6 @@
 # Étude de cas – Atelier Pixel : qui possède quoi ?
 
-*BTS SIO SISR 2e année – CEJMA – S05*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S05*
 
 > [!NOTE]
 > **Comment travailler.** Lis le dossier, puis réponds **par écrit** à chaque question : notion, application au dossier (cite le document), conclusion. Ouvre ensuite « Voir la réponse attendue » pour te corriger.

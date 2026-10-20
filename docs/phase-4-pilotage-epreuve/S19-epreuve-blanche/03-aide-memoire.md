@@ -1,6 +1,6 @@
 # Aide-mémoire – Épreuve blanche
 
-*BTS SIO SISR 2e année – CEJMA – S19*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S19*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

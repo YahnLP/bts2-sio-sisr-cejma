@@ -6,7 +6,8 @@
 | **Séance** | S09 (séance 9 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Rupture du contrat de travail : prérequis de S10 ; seule séance sur ce point. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 5 – proposé (à valider) |
+| **Enseignement** | CEJM |
+| **Thème du programme** | Thème 5 – Les mutations du travail |
 | **Champs** | Droit · Gestion |
 | **Prérequis** | S06 ; S08 |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +58,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**, chiffres recalculés. Indemnité légale, préavis et rupture conventionnelle cités de mémoire : à relire sur Légifrance ; les conventions collectives (Syntec) peuvent être plus favorables.
 
 </details>

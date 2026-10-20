@@ -1,6 +1,6 @@
 # Cours – Manager et motiver
 
-*BTS SIO SISR 2e année – CEJMA – S12 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S12 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** les structures et la coordination (S11) ; les parties prenantes (1re année).

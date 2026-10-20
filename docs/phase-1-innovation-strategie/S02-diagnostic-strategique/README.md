@@ -6,7 +6,8 @@
 | **Séance** | S02 (séance 2 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Diagnostic stratégique : prérequis de S03 et S17. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 2 – proposé : stratégie (à valider) |
+| **Enseignement** | CEJM |
+| **Thème du programme** | Thème 6 – Les choix stratégiques de l'entreprise ; thème 2 (connaissance de l'environnement) |
 | **Champs** | Économie · Management |
 | **Prérequis** | S01 |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +58,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**, chiffres recalculés. Outils classiques de gestion (PESTEL, SWOT, cinq forces et stratégies génériques de Porter, matrice du BCG).
 
 </details>

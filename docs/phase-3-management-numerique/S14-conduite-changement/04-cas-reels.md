@@ -1,6 +1,6 @@
 # Cas réel – GendBuntu : migrer la gendarmerie de Windows vers Ubuntu
 
-*BTS SIO SISR 2e année – CEJMA – S14*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S14*
 
 > [!NOTE]
 > **Comment travailler.** Lis le cas réel et ses sources, réponds par écrit aux questions, puis ouvre « Voir la réponse attendue ». Les faits viennent des sources citées en fin de page ; en cas de doute, **retourne à la source**. Ce cas complète l'étude de cas fictive de la séance.

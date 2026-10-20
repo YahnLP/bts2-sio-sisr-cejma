@@ -1,6 +1,6 @@
 # Étude de cas – Atlas Informatique : quel contrat pour quel besoin ?
 
-*BTS SIO SISR 2e année – CEJMA – S06*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S06*
 
 > [!NOTE]
 > **Comment travailler.** Lis le dossier, puis réponds **par écrit** à chaque question : règle, application au dossier (cite le document), conclusion. Ouvre ensuite « Voir la réponse attendue » pour te corriger.

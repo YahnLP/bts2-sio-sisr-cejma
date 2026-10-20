@@ -1,6 +1,6 @@
 # Étude de cas – Hexa Cloud : représentants, risques et alertes
 
-*BTS SIO SISR 2e année – CEJMA – S10*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S10*
 
 > [!NOTE]
 > **Comment travailler.** Lis le dossier, puis réponds **par écrit** à chaque question : règle, application au dossier (cite le document), conclusion. Ouvre ensuite « Voir la réponse attendue » pour te corriger.

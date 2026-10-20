@@ -1,6 +1,6 @@
 # Étude de cas – Vega Intégration : quelle voie de croissance ?
 
-*BTS SIO SISR 2e année – CEJMA – S17*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S17*
 
 > [!NOTE]
 > **Comment travailler.** Lis le dossier, puis réponds **par écrit** à chaque question : notion, application au dossier (cite le document), conclusion. Ouvre ensuite « Voir la réponse attendue » pour te corriger.

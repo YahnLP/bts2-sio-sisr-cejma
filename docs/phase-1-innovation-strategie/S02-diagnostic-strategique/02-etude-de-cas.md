@@ -1,6 +1,6 @@
 # Étude de cas – Lumio Services : diagnostiquer avant de choisir
 
-*BTS SIO SISR 2e année – CEJMA – S02*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S02*
 
 > [!NOTE]
 > **Comment travailler.** Lis le dossier, puis réponds **par écrit** à chaque question, avec une réponse **construite et argumentée** : notion, application au dossier (cite le document), conclusion. Ouvre ensuite « Voir la réponse attendue » pour te corriger.

@@ -1,6 +1,6 @@
 # Cas réels – Protéger la valeur : Waymo contre Uber et la non-concurrence
 
-*BTS SIO SISR 2e année – CEJMA – S05*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S05*
 
 > [!NOTE]
 > **Comment travailler.** Lis le cas réel et ses sources, réponds par écrit aux questions, puis ouvre « Voir la réponse attendue ». Les faits viennent des sources citées en fin de page ; en cas de doute, **retourne à la source**. Ce cas complète l'étude de cas fictive de la séance.

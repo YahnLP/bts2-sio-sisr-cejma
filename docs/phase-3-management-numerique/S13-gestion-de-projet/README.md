@@ -6,7 +6,9 @@
 | **Séance** | S13 (séance 13 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Gestion de projet : prérequis de S14. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 6 – proposé (à valider) |
+| **Enseignement** | CEJM et CEJMA |
+| **Part CEJMA** | planification, méthodes séquentielle et agile, outil de gestion de projet ; à retrouver en [bloc 1, 2e année, S01](https://yahnlp.github.io/bts2-sio-sisr-bloc1/phase-1-gerer-un-projet/S01-cadrer-un-projet/), [bloc 1, 2e année, S02](https://yahnlp.github.io/bts2-sio-sisr-bloc1/phase-1-gerer-un-projet/S02-planifier-approche-predictive/), [bloc 1, 2e année, S03](https://yahnlp.github.io/bts2-sio-sisr-bloc1/phase-1-gerer-un-projet/S03-approche-agile/), [bloc 1, 2e année, S04](https://yahnlp.github.io/bts2-sio-sisr-bloc1/phase-1-gerer-un-projet/S04-outil-de-gestion-de-projet/). Voir [CEJM et CEJMA](../../ressources/cejm-et-cejma.md). |
+| **Thème du programme** | Thème 3 – L'organisation de l'activité de l'entreprise |
 | **Champs** | Management · Gestion |
 | **Prérequis** | S11 |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -60,7 +62,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**, chiffres recalculés. Notions de gestion de projet citées de mémoire.
 
 </details>

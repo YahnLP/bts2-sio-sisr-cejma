@@ -1,6 +1,6 @@
 # Cours – Le contrat de travail : formes et formation
 
-*BTS SIO SISR 2e année – CEJMA – S06 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S06 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** les contrats en général (1re année, S04) ; la protection du logiciel et les clauses de non-concurrence (S05).

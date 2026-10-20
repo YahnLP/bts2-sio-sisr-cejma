@@ -6,7 +6,9 @@
 | **Séance** | S14 (séance 14 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Conduite du changement : seule séance consacrée au management du changement numérique. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 6 – proposé (à valider) |
+| **Enseignement** | CEJM et CEJMA |
+| **Part CEJMA** | conduite du changement, recette et déploiement ; à retrouver en [bloc 1, 2e année, S05](https://yahnlp.github.io/bts2-sio-sisr-bloc1/phase-1-gerer-un-projet/S05-recette-et-conduite-du-changement/). Voir [CEJM et CEJMA](../../ressources/cejm-et-cejma.md). |
+| **Thème du programme** | Thème 4 – L'impact du numérique sur la vie de l'entreprise |
 | **Champs** | Management |
 | **Prérequis** | S11 ; S13 |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -60,7 +62,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**, chiffres recalculés. Étapes de Kotter citées de mémoire : à confirmer.
 
 </details>

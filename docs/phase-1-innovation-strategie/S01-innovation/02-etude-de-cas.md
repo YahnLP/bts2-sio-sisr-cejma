@@ -1,6 +1,6 @@
 # Étude de cas – Nébula Soft : innover, mesurer, financer
 
-*BTS SIO SISR 2e année – CEJMA – S01*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S01*
 
 > [!NOTE]
 > **Comment travailler.** Lis le dossier, puis réponds **par écrit** à chaque question, avec une réponse **construite et argumentée** : notion, application au dossier (cite le document), conclusion. Ouvre ensuite « Voir la réponse attendue » pour te corriger.

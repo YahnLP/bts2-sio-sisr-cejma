@@ -1,6 +1,6 @@
 # Cours – Organiser l'entreprise : structures et agilité
 
-*BTS SIO SISR 2e année – CEJMA – S11 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S11 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** les finalités et les parties prenantes de l'entreprise (1re année, S03) ; la stratégie (S02).

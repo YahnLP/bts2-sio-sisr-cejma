@@ -1,6 +1,6 @@
 # Étude de cas – Serval Systèmes : peut-on sanctionner ?
 
-*BTS SIO SISR 2e année – CEJMA – S08*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S08*
 
 > [!NOTE]
 > **Comment travailler.** Lis le dossier, puis réponds **par écrit** à chaque question : règle, application au dossier (cite le document), conclusion. Ouvre ensuite « Voir la réponse attendue » pour te corriger.

@@ -1,6 +1,6 @@
 # Aide-mémoire – Conduite du changement
 
-*BTS SIO SISR 2e année – CEJMA – S14*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S14*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

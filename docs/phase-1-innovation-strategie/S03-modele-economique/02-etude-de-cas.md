@@ -1,6 +1,6 @@
 # Étude de cas – Cloudette : à partir de quand gagne-t-on de l'argent ?
 
-*BTS SIO SISR 2e année – CEJMA – S03*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S03*
 
 > [!NOTE]
 > **Comment travailler.** Lis le dossier, puis réponds **par écrit** à chaque question : formule, calcul, résultat **avec unité**, commentaire. Ouvre ensuite « Voir la réponse attendue » pour te corriger.

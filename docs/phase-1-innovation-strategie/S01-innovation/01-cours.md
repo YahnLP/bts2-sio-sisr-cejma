@@ -1,6 +1,6 @@
 # Cours – L'innovation et l'entreprise innovante
 
-*BTS SIO SISR 2e année – CEJMA – S01 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S01 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** la 1re année (acteurs du numérique, marchés, finalités de l'entreprise).

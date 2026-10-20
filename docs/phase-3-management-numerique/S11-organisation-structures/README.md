@@ -6,7 +6,8 @@
 | **Séance** | S11 (séance 11 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Structures de l'organisation : prérequis de S12, S13 et S14. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 6 – proposé : management (à valider) |
+| **Enseignement** | CEJM |
+| **Thème du programme** | Thème 3 – L'organisation de l'activité de l'entreprise |
 | **Champs** | Management |
 | **Prérequis** | S03 de la 1re année |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +58,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**, chiffres recalculés. Auteurs et modèles (Fayol, Mintzberg) cités de mémoire : à confirmer dans une source.
 
 </details>

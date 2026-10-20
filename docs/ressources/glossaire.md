@@ -44,7 +44,8 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Coût total de possession** | TCO | *total cost of ownership* | Coût complet d'un bien ou service sur toute sa durée de vie. | A1 · S05 |
 | **Creative Commons** |  |  | Famille de licences pour les œuvres : attribution (BY), partage dans les mêmes conditions (SA), non commercial (NC), pas de modification (ND). | A1 · S17 |
 | **Croissance externe** |  | *external growth* | Croissance par acquisition, fusion ou prise de participation. | A2 · S04 |
-| **Culture économique, juridique et managériale appliquée** | CEJMA |  | Enseignement qui prépare l'épreuve E4 du BTS SIO. | A1 · S01 |
+| **Culture économique, juridique et managériale pour l'informatique** | CEJM |  | Enseignement du programme des six thèmes ; prépare l'épreuve E4. | A1 · S01 |
+| **Culture économique, juridique et managériale appliquée** | CEJMA |  | Application des savoirs économiques, juridiques et managériaux des blocs professionnels. Pas d'épreuve propre. | A1 · S01 |
 | **Déchets d'équipements électriques et électroniques** | DEEE | *WEEE* | Déchets d'appareils électriques, soumis à une filière de collecte et de recyclage. | A1 · S05 |
 | **Délai de récupération** |  | *payback period* | Temps nécessaire pour que les flux nets remboursent un investissement. | A2 · S04 |
 | **Délégation** |  | *delegation* | Transfert d'une tâche et de l'autorité nécessaire pour la mener. | A2 · S11 |

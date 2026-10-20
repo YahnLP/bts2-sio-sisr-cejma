@@ -6,7 +6,9 @@
 | **Séance** | S15 (séance 15 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – RSE et numérique responsable : seule séance sur ce point dans cette discipline. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 6 – proposé (à valider) |
+| **Enseignement** | CEJM et CEJMA |
+| **Part CEJMA** | éthique, environnement, éco-conception, développement durable ; à retrouver en [bloc 1, 2e année, S15](https://yahnlp.github.io/bts2-sio-sisr-bloc1/phase-3-presence-en-ligne/S15-accessibilite-et-eco-conception/), [bloc 2, 2e année, S03](https://yahnlp.github.io/bts2-sio-sisr-bloc2/phase-1-reprendre-concevoir/S03-cout-ethique-environnement/). Voir [CEJM et CEJMA](../../ressources/cejm-et-cejma.md). |
+| **Thème du programme** | Thème 1 – L'intégration de l'entreprise dans son environnement (finalités sociétales) ; thème 4 |
 | **Champs** | Management · Droit |
 | **Prérequis** | S03 de la 1re année |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +59,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif** (facteur d'émission et prix fictifs). Cadre légal du reporting de durabilité : **à vérifier** dans un texte à jour.
 
 </details>

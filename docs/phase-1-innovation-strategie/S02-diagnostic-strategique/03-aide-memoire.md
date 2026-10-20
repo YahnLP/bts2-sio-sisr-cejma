@@ -1,6 +1,6 @@
 # Aide-mémoire – Le diagnostic stratégique
 
-*BTS SIO SISR 2e année – CEJMA – S02*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S02*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

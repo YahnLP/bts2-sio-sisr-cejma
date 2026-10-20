@@ -1,6 +1,6 @@
 # Aide-mémoire – La rupture du contrat
 
-*BTS SIO SISR 2e année – CEJMA – S09*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S09*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

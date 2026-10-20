@@ -6,7 +6,8 @@
 | **Séance** | S12 (séance 12 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Management et motivation : seule séance sur ces points ; reprise en S16. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 6 – proposé (à valider) |
+| **Enseignement** | CEJM |
+| **Thème du programme** | Thème 3 – L'organisation de l'activité de l'entreprise ; thème 4 (management) |
 | **Champs** | Management |
 | **Prérequis** | S11 |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +58,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**, chiffres recalculés. Théories (Lewin, Maslow, Herzberg, McGregor) citées de mémoire ; la formule du turnover varie selon les sources.
 
 </details>

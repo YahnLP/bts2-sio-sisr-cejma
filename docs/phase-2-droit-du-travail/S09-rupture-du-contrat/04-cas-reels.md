@@ -1,6 +1,6 @@
 # Cas réel – Le barème d'indemnisation du licenciement validé par la Cour de cassation
 
-*BTS SIO SISR 2e année – CEJMA – S09*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S09*
 
 > [!NOTE]
 > **Comment travailler.** Lis le cas réel et ses sources, réponds par écrit aux questions, puis ouvre « Voir la réponse attendue ». Les faits viennent des sources citées en fin de page ; en cas de doute, **retourne à la source**. Ce cas complète l'étude de cas fictive de la séance.

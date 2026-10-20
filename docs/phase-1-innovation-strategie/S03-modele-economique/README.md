@@ -6,7 +6,9 @@
 | **Séance** | S03 (séance 3 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Modèle économique et seuil de rentabilité : prérequis de S04. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
-| **Thème du programme** | Thème 2 – proposé : création de valeur (à valider) |
+| **Enseignement** | CEJM, avec une part de CEJMA |
+| **Part CEJMA** | coût et qualité de service d'une prestation ; à retrouver en [bloc 2, 2e année, S03](https://yahnlp.github.io/bts2-sio-sisr-bloc2/phase-1-reprendre-concevoir/S03-cout-ethique-environnement/). Voir [CEJM et CEJMA](../../ressources/cejm-et-cejma.md). |
+| **Thème du programme** | Thème 6 – Les choix stratégiques de l'entreprise ; thème 1 (modèle économique) |
 | **Champs** | Économie · Gestion |
 | **Prérequis** | S02 |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -57,7 +59,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
 - Dossier **fictif**, chiffres recalculés. La formule de la valeur vie client varie selon les ouvrages : celle du cours est précisée.
 
 </details>

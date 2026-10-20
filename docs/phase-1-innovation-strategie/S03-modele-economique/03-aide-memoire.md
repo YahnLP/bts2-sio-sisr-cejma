@@ -1,6 +1,6 @@
 # Aide-mémoire – Modèle économique et seuil de rentabilité
 
-*BTS SIO SISR 2e année – CEJMA – S03*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S03*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

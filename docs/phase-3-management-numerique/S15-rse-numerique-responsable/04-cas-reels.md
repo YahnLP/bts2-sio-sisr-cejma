@@ -1,6 +1,6 @@
 # Cas réel – L'empreinte carbone du numérique en France
 
-*BTS SIO SISR 2e année – CEJMA – S15*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S15*
 
 > [!NOTE]
 > **Comment travailler.** Lis le cas réel et ses sources, réponds par écrit aux questions, puis ouvre « Voir la réponse attendue ». Les faits viennent des sources citées en fin de page ; en cas de doute, **retourne à la source**. Ce cas complète l'étude de cas fictive de la séance.

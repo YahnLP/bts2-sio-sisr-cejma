@@ -1,6 +1,6 @@
 # Cours – Du diagnostic à la décision
 
-*BTS SIO SISR 2e année – CEJMA – S17 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S17 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** le diagnostic stratégique (S02), les indicateurs (S16).

@@ -1,6 +1,6 @@
 # Préparer l'épreuve blanche
 
-*BTS SIO SISR 2e année – CEJMA – S19 – à lire avant le [sujet](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S19 – à lire avant le [sujet](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** S18 (méthode). Cette séance est une **mise en conditions** : aucune notion nouvelle.

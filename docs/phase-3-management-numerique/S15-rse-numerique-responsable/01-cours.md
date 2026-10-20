@@ -1,6 +1,6 @@
 # Cours – RSE et numérique responsable
 
-*BTS SIO SISR 2e année – CEJMA – S15 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S15 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** les parties prenantes et les finalités de l'entreprise (1re année, S03) ; la conduite du changement (S14).

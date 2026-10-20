@@ -1,6 +1,6 @@
 # Aide-mémoire – La méthode E4
 
-*BTS SIO SISR 2e année – CEJMA – S18*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S18*
 
 > Un mot ou un sigle inconnu ? Passe la souris dessus, ou ouvre le [glossaire](../../ressources/glossaire.md).
 

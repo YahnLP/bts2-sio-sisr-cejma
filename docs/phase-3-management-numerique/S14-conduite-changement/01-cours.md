@@ -1,6 +1,6 @@
 # Cours – Conduire le changement et la transformation numérique
 
-*BTS SIO SISR 2e année – CEJMA – S14 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S14 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** gestion de projet (S13) ; motivation (S12).

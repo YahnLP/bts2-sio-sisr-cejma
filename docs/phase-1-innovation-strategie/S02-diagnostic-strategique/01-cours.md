@@ -1,6 +1,6 @@
 # Cours – Le diagnostic stratégique
 
-*BTS SIO SISR 2e année – CEJMA – S02 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S02 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** S01 ; marchés et concurrence (1re année).

@@ -1,6 +1,6 @@
 # Cours – Modèle économique et seuil de rentabilité
 
-*BTS SIO SISR 2e année – CEJMA – S03 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
+*BTS SIO SISR 2e année – CEJM et CEJMA – S03 – à lire avant l'[étude de cas](02-etude-de-cas.md)*
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** S02 ; notions de coût et de marge de la 1re année.
