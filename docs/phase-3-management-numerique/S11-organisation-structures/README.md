@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S11 (séance 11 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Structures de l'organisation : prérequis de S12, S13 et S14. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 6 – proposé : management (à valider) |
 | **Champs** | Management |
 | **Prérequis** | S03 de la 1re année |

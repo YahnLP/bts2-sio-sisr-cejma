@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S01 (séance 1 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Innovation et entreprise innovante : prérequis de S02 ; ouvre le thème 2. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 2 – proposé : innovation (à valider) |
 | **Champs** | Économie · Management |
 | **Prérequis** | S01 à S05 de la 1re année |

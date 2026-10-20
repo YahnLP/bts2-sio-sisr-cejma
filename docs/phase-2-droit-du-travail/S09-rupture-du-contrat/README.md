@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S09 (séance 9 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Rupture du contrat de travail : prérequis de S10 ; seule séance sur ce point. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 5 – proposé (à valider) |
 | **Champs** | Droit · Gestion |
 | **Prérequis** | S06 ; S08 |

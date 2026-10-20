@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S02 (séance 2 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Diagnostic stratégique : prérequis de S03 et S17. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 2 – proposé : stratégie (à valider) |
 | **Champs** | Économie · Management |
 | **Prérequis** | S01 |

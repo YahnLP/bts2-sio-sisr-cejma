@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 2e année – culture économique, juridique et managériale |
 | **Séance** | S08 (séance 8 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Pouvoir de l'employeur et discipline : prérequis de S09 et S10. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Thème du programme** | Thème 5 – proposé (à valider) |
 | **Champs** | Droit · Management |
 | **Prérequis** | S06 ; S11 de la 1re année |
