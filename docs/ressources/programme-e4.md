@@ -25,8 +25,6 @@ Elle prend appui sur un **dossier** comprenant :
 | **D** | Établir un diagnostic préparant une décision stratégique | Questions « diagnostic » |
 | **E** | Exposer des analyses et propositions de façon cohérente et argumentée | Rédaction des réponses |
 
-Chaque corrigé (réservé à l'enseignant) comporte une **grille de capacités** qui relie les questions à ces cinq codes.
-
 ## Répartition du programme sur les deux années
 
 Le programme est organisé en **thèmes**, répartis sur les deux années du BTS. La 1re année (site dédié) a couvert les thèmes 1, 3 et 4 et des éléments des thèmes 2 et 5. Cette **2e année** reprend et approfondit :

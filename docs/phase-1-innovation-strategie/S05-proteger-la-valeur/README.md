@@ -57,7 +57,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <summary>Notes pour l'enseignant</summary>
 
 - **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - Dossier **fictif**. Références juridiques citées de mémoire, **à relire sur Légifrance** (voir le corrigé) : droit d'auteur du logiciel, exclusion du brevet, secret des affaires, clause de non-concurrence.
 
 </details>

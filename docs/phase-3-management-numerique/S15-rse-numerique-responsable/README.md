@@ -57,7 +57,6 @@ Comment ton entreprise (ou une entreprise que tu connais) traite-t-elle le sujet
 <summary>Notes pour l'enseignant</summary>
 
 - **Programme :** le rattachement au programme officiel est une **proposition à valider** (l'annexe I n'a pas été relue ; voir [Programme et épreuve E4](../../ressources/programme-e4.md)).
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - Dossier **fictif** (facteur d'émission et prix fictifs). Cadre légal du reporting de durabilité : **à vérifier** dans un texte à jour.
 
 </details>
