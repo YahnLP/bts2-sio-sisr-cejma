@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Contrat de travail : prérequis de S07 à S10. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Enseignement** | CEJM |
-| **Thème du programme** | Thème 5 – Les mutations du travail |
+| **Thème du programme** | Thème 5 – Les mutations du travail (question 5.2 ; question 5.1 dans le complément) |
 | **Champs** | Droit |
 | **Prérequis** | S04 de la 1re année |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -33,6 +33,7 @@
 | [Étude de cas](02-etude-de-cas.md) | Dossier fictif « Atlas Informatique » et questions |
 | [Aide-mémoire](03-aide-memoire.md) | L'essentiel sur une page |
 | [Cas réel](04-cas-reels.md) | Take Eat Easy : requalification d'un livreur de plateforme |
+| [Complément](05-complement-marche-du-travail.md) | Le marché du travail (offre, demande, segmentation, chômage, politiques de l'emploi) |
 
 ## Déroulé conseillé (4 h)
 
