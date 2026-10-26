@@ -19,7 +19,7 @@
 | **Autre forme (CCF)** | Deux situations d'évaluation de **2 heures** chacune, dont une au moins écrite, avec les **mêmes exigences** |
 | **Capacités** | Analyser des situations, exploiter une base documentaire, proposer des solutions argumentées, établir un diagnostic, exposer de façon cohérente et argumentée ; s'ajoute la capacité à **prendre des décisions opérationnelles** intégrant les trois dimensions |
 
-**Le calendrier officiel (session 2026).** D'après le calendrier des épreuves écrites publié par le SIEC : E4 le **mercredi 20 mai 2026**, **4 heures**, de **14 h à 18 h** en métropole. Les candidats sont **mis en loge** (4 heures pour E4) **sans pouvoir sortir** avant la fin de l'épreuve.
+**Le calendrier officiel.** À titre d'exemple, pour la **session 2026**, le calendrier des épreuves écrites du BTS SIO publié par le SIEC plaçait l'E4 le **mercredi 20 mai 2026**, **4 heures**, de **14 h à 18 h** en métropole. Le calendrier de **ta** session (2027) est publié par le SIEC et par ton académie : relève la date exacte dès sa parution. Les candidats sont **mis en loge** (4 heures pour E4) **sans pouvoir sortir** avant la fin de l'épreuve.
 
 **Un piège de source.** Une recherche en ligne ramène aussi un **ancien règlement d'examen** du BTS (aucune date visible ; notes de service de 2006 et 2010) : l'épreuve d'« analyse économique, managériale et juridique » y est **E3**, et **E4** est « **Conception et maintenance de solutions informatiques** », de **coefficient 4**. C'est une **version ancienne** du diplôme, pas l'épreuve actuelle.
 

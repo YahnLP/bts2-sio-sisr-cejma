@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Croissance, partenariats et financement : seule séance sur ces points. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Enseignement** | CEJM |
-| **Thème du programme** | Thème 6 – Les choix stratégiques de l'entreprise ; thème 3 (financement) |
+| **Thème du programme** | Thème 6 – Les choix stratégiques de l'entreprise (question 6.2, avec le complément) ; thème 3 (financement) |
 | **Champs** | Économie · Gestion |
 | **Prérequis** | S03 ; S10 de la 1re année |
 | **Capacités travaillées** | **A** · **B** · **C** · **D** · **E** (voir [Programme et épreuve E4](../../ressources/programme-e4.md)) |
@@ -33,6 +33,7 @@
 | [Étude de cas](02-etude-de-cas.md) | Dossier fictif « Kestrel Data » et questions |
 | [Aide-mémoire](03-aide-memoire.md) | L'essentiel sur une page |
 | [Cas réel](04-cas-reels.md) | Microsoft rachète GitHub : croissance externe (2018) |
+| [Complément](05-complement-options-strategiques.md) | Domaines d'activités stratégiques et options stratégiques globales |
 
 ## Déroulé conseillé (4 h)
 
